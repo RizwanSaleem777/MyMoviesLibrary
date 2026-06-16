@@ -6478,5 +6478,1313 @@
     "type": "Movie",
     "imdb": "",
     "poster": ""
+  },
+
+
+  {
+    "id": 721,
+    "title": "Fast And Furious 9",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 722,
+    "title": "Kate",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 723,
+    "title": "No Time To Die",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 724,
+    "title": "Nobody",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 725,
+    "title": "Red Notice",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 726,
+    "title": "The Suicide Squad",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 727,
+    "title": "Venom 2",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 728,
+    "title": "Wrath OF Man",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 729,
+    "title": "Warning",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 730,
+    "title": "The Protege",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 731,
+    "title": "Spiderman No Way Home(extended Version)",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 732,
+    "title": "Till Death",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 733,
+    "title": "The Marksman",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 734,
+    "title": "Raya And The Last Dragon",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 735,
+    "title": "King Richard",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 736,
+    "title": "Army Of The Dead",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 737,
+    "title": "Midnight",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 738,
+    "title": "Bob Biswas",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 739,
+    "title": "Chandigarh Kare Aashiqui",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 740,
+    "title": "Dhamaka",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 741,
+    "title": "Drishyam",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 742,
+    "title": "Prime Witness",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 743,
+    "title": "The Girl On The Train",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 744,
+    "title": "The Power",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 745,
+    "title": "V",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 746,
+    "title": "Sanak",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 747,
+    "title": "College Romance Season-02",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 748,
+    "title": "Hello Mini Seson-02",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 749,
+    "title": "Hostel Daze Season-02",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 750,
+    "title": "Kota Factory Season-02",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 751,
+    "title": "Sunflower Season-01",
+    "year": 2021,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 752,
+    "title": "Squid Game Season-01",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 753,
+    "title": "Money Heist Season-05",
+    "year": 2021,
+    "origin": "Hollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 754,
+    "title": "Lost Bullet 2",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 755,
+    "title": "The Gray Man",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 756,
+    "title": "Black Adam",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 757,
+    "title": "Thor Love and Thunder",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 758,
+    "title": "My Name Is Vendetta",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 759,
+    "title": "HIT The 2nd Case",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 760,
+    "title": "Prey",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 761,
+    "title": "HIT The First Case",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 762,
+    "title": "Uncharted",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 763,
+    "title": "Avatar 2 The Way Of Water",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 764,
+    "title": "A Man Called Otto",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 765,
+    "title": "No Exit",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 766,
+    "title": "The Killer A Girl Who Deserves To Die",
+    "year": 2022,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 767,
+    "title": "Pushpa The Rise Part 1",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 768,
+    "title": "CBI 5 The Brain",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 769,
+    "title": "Doctor G",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 770,
+    "title": "Cuttputli",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 771,
+    "title": "Ek Villain Returns",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 772,
+    "title": "777 Charlie",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 773,
+    "title": "Blurr",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 774,
+    "title": "Vikram",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 775,
+    "title": "Drishyam 2",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 776,
+    "title": "Mili",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 777,
+    "title": "K G F Chapter 2",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 778,
+    "title": "RRR",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 779,
+    "title": "Forensic",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 780,
+    "title": "The Legend Of Maula Jatt",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 781,
+    "title": "Abhay Season-03",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 782,
+    "title": "Apharan Season-01",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 783,
+    "title": "Monica O My Darling",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 784,
+    "title": "Rudra The Edge Of Darkness",
+    "year": 2022,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 785,
+    "title": "Extraction 2",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 786,
+    "title": "John Wick 4",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 787,
+    "title": "Sisu",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 788,
+    "title": "Retribution",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 789,
+    "title": "Love At First Sight",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 790,
+    "title": "Fast X",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 791,
+    "title": "The Equalizer 3",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 792,
+    "title": "The Killer",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 793,
+    "title": "Meg 2 The Trench",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 794,
+    "title": "To Catch A Killer",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 795,
+    "title": "Mission Impossible Dead Reckoning",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 796,
+    "title": "Night of the Hunted",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 797,
+    "title": "Mothers Day",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 798,
+    "title": "The Flash",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 799,
+    "title": "The Wrath of Becky",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 800,
+    "title": "The Childe",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 801,
+    "title": "Bholaa",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 802,
+    "title": "Vaarisu",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 803,
+    "title": "Bloody Daddy",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 804,
+    "title": "Carry On Jatta 3",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 805,
+    "title": "Dream Girl 2",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 806,
+    "title": "Haddi",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 807,
+    "title": "Jaane Jaan",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 808,
+    "title": "Jawan",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 809,
+    "title": "Apurva",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 810,
+    "title": "12Th Fail",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 811,
+    "title": "Kho Gaye Hum Kahan",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 812,
+    "title": "Animal",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 813,
+    "title": "Dunki",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 814,
+    "title": "Hi Nanna",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 815,
+    "title": "Salaar Part 1 Ceasefire",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 816,
+    "title": "Leo",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 817,
+    "title": "Maharaja",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 818,
+    "title": "Asur season-02",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 819,
+    "title": "The Trial Pyaar Kaanoon Dhokha Season 01",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 820,
+    "title": "Kaala Paani Season-01",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 821,
+    "title": "Dahaad Season 01",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 822,
+    "title": "Cubicles Season-03",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 823,
+    "title": "Por Thozhil",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 824,
+    "title": "Sapne Vs Everyone",
+    "year": 2023,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 825,
+    "title": "Who Is Erin Carter",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 826,
+    "title": "Berlin Season-01",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 827,
+    "title": "Hijack Season 01",
+    "year": 2023,
+    "origin": "Hollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 828,
+    "title": "Sixty Minutes",
+    "year": 2024,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 829,
+    "title": "The Beekeeper",
+    "year": 2024,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 830,
+    "title": "Carry ON",
+    "year": 2024,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 831,
+    "title": "Gladiator II",
+    "year": 2024,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 832,
+    "title": "Road House",
+    "year": 2024,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 833,
+    "title": "Land of Bad",
+    "year": 2024,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 834,
+    "title": "Dont Move",
+    "year": 2024,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 835,
+    "title": "Phir Aayi HasseenDillruba",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 836,
+    "title": "Rautu ka Raaz",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 837,
+    "title": "Shaitaan",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 838,
+    "title": "Bagheera The Saviour",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 839,
+    "title": "Golam",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 840,
+    "title": "Anweshippin Kandethum",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 841,
+    "title": "Lucky Baskhar",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 842,
+    "title": "Sookshma Darshini",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 843,
+    "title": "Murder In Mahim S01",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 844,
+    "title": "Shekhar Home S01",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 845,
+    "title": "Squid Game Season-02",
+    "year": 2024,
+    "origin": "Hollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 846,
+    "title": "Cubicles Season-04",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 847,
+    "title": "Warning 2",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 848,
+    "title": "Level Cross",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 849,
+    "title": "Sunflower Season-02",
+    "year": 2024,
+    "origin": "Bollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 850,
+    "title": "Nobody 2",
+    "year": 2025,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 851,
+    "title": "The Old Gaurd",
+    "year": 2025,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 852,
+    "title": "Blind Spot",
+    "year": 2025,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 853,
+    "title": "Stolen",
+    "year": 2025,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 854,
+    "title": "Eleven",
+    "year": 2025,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 855,
+    "title": "Jolly LLB 3",
+    "year": 2025,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 856,
+    "title": "Eko",
+    "year": 2025,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 857,
+    "title": "Pushpa 2",
+    "year": 2025,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 858,
+    "title": "Murderer Report",
+    "year": 2025,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 859,
+    "title": "Squid Game Season-03",
+    "year": 2025,
+    "origin": "Hollywood",
+    "type": "Series",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 860,
+    "title": "Diablo",
+    "year": 2025,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 861,
+    "title": "HIT The Third Case",
+    "year": 2025,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 862,
+    "title": "Trap House",
+    "year": 2025,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 863,
+    "title": "F1",
+    "year": 2025,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 864,
+    "title": "Mercy",
+    "year": 2026,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
+  },
+  {
+    "id": 865,
+    "title": "Apex",
+    "year": 2026,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": ""
   }
+
   ]
