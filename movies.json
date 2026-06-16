@@ -7811,5 +7811,14 @@
     "type": "Movie",
     "imdb": "",
     "poster": "posters/Jungle-2017.jpg"
+  },
+{
+    "id": 898,
+    "title": "It Chapter Two",
+    "year": 2019,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": "posters/It2.jpg"
   }
 ]
