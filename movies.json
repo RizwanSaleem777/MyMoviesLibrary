@@ -6698,11 +6698,11 @@
   {
     "id": 745,
     "title": "V",
-    "year": 2021,
+    "year": 2020,
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/v-2020"
   },
   {
     "id": 746,
@@ -6874,6 +6874,7 @@
     "type": "Movie",
     "imdb": "",
     "poster": ""
+
   },
   {
     "id": 765,
