@@ -87,6 +87,9 @@
         <h1>My Movie Library</h1>
         <div class="controls">
             <input type="text" id="searchInput" placeholder="Search title...">
+            <select id="yearFilter">
+                <option value="All">All Years</option>
+            </select>
             <select id="originFilter">
                 <option value="All">All Origins</option>
                 <option value="Hollywood">Hollywood</option>
@@ -202,6 +205,7 @@
                 const response = await fetch('movies.json');
                 if (!response.ok) throw new Error('Failed to load movies.json');
                 movies = await response.json();
+                populateYearFilter(); // Populate the new year dropdown
                 renderMovies();
             } catch (error) {
                 console.error('Error loading movies:', error);
@@ -210,9 +214,29 @@
             }
         }
 
+        // Populate Year Filter Dropdown
+        function populateYearFilter() {
+            const yearSelect = document.getElementById('yearFilter');
+            // Get unique years
+            const years = [...new Set(movies.map(m => m.year))].sort((a, b) => b - a); // Sort Descending
+            
+            // Clear existing options except the first one
+            while (yearSelect.options.length > 1) {
+                yearSelect.remove(1);
+            }
+
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                yearSelect.appendChild(option);
+            });
+        }
+
         // Setup Event Listeners
         function setupEventListeners() {
             document.getElementById('searchInput').addEventListener('input', renderMovies);
+            document.getElementById('yearFilter').addEventListener('change', renderMovies); // New Listener
             document.getElementById('originFilter').addEventListener('change', renderMovies);
             document.getElementById('typeFilter').addEventListener('change', renderMovies);
             document.getElementById('movieForm').addEventListener('submit', handleFormSubmit);
@@ -235,15 +259,17 @@
         function renderMovies() {
             const grid = document.getElementById('movieGrid');
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const yearFilter = document.getElementById('yearFilter').value;
             const originFilter = document.getElementById('originFilter').value;
             const typeFilter = document.getElementById('typeFilter').value;
 
             // Filter
             let filteredMovies = movies.filter(movie => {
                 const matchesSearch = movie.title.toLowerCase().includes(searchTerm);
+                const matchesYear = yearFilter === 'All' || movie.year.toString() === yearFilter;
                 const matchesOrigin = originFilter === 'All' || movie.origin === originFilter;
                 const matchesType = typeFilter === 'All' || movie.type === typeFilter;
-                return matchesSearch && matchesOrigin && matchesType;
+                return matchesSearch && matchesYear && matchesOrigin && matchesType;
             });
 
             // Sort
@@ -294,11 +320,6 @@
             const origins = {};
             const types = {};
 
-            // Calculate based on currently filtered view? Usually stats are global, but let's stick to current view for "Search Results refresh" context or global?
-            // Prompt says "Refresh statistics" after delete. Usually implies updating the counts shown in UI.
-            // Let's calculate from the full 'movies' array but displayed counts might depend on context. 
-            // I'll calculate full stats.
-            
             movies.forEach(m => {
                 origins[m.origin] = (origins[m.origin] || 0) + 1;
                 types[m.type] = (types[m.type] || 0) + 1;
@@ -434,6 +455,8 @@
                     poster
                 };
                 movies.push(newMovie);
+                // If a new year is added that wasn't in the list before, refresh the dropdown
+                populateYearFilter();
                 showToast("Movie added successfully!");
             }
 
