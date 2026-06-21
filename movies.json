@@ -969,7 +969,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": "psoters/harry-potter-and-the-sorcerer-s-stone-2001.jpg"
+    "poster": "posters/harry-potter-and-the-sorcerer-s-stone-2001.jpg"
   },
   {
     "id": 109,
@@ -996,7 +996,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/ocean-s-eleven-2001.jpg"
   },
   {
     "id": 112,
@@ -1005,7 +1005,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/pearl-harbor-2001.jpg"
   },
   {
     "id": 113,
@@ -1014,7 +1014,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/spy-game-2001.jpg"
   },
   {
     "id": 114,
@@ -1023,7 +1023,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/swordfish-2001x.jpg"
   },
   {
     "id": 115,
@@ -1032,7 +1032,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/the-score-2001.jpg"
   },
   {
     "id": 116,
@@ -1041,7 +1041,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/the-mummy-returns-2001.jpg"
   },
   {
     "id": 117,
@@ -1050,7 +1050,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/lagaan-2001.jpg"
   },
   {
     "id": 118,
@@ -1059,7 +1059,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/dil-chahta-hai-2001.jpg"
   },
   {
     "id": 119,
@@ -1068,7 +1068,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/kabhi-khushi-kabhie-gham-2001.jpg"
   },
   {
     "id": 120,
@@ -1077,7 +1077,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/chori-chori-chupke-chupke-2001.jpg"
   },
   {
     "id": 121,
@@ -7468,7 +7468,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/carry-on-2024.jpg"
   },
   {
     "id": 831,
@@ -7477,7 +7477,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/gladiator-ii-2024.jpg"
   },
   {
     "id": 832,
@@ -7486,7 +7486,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/road-house-2024.jpg"
   },
   {
     "id": 833,
@@ -7495,7 +7495,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/land-of-bad-2024.jpg"
   },
   {
     "id": 834,
@@ -7504,7 +7504,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/dont-move-2024.jpg"
   },
   {
     "id": 835,
@@ -7513,7 +7513,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/phir-aayi-hasseendillruba-2024.jpg"
   },
   {
     "id": 836,
@@ -7522,7 +7522,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/rautu-ka-raaz-2024.jpg"
   },
   {
     "id": 837,
@@ -7531,7 +7531,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/shaitaan-2024.jpg"
   },
   {
     "id": 838,
@@ -7540,7 +7540,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/bagheera-the-saviour-2024.jpg"
   },
   {
     "id": 839,
@@ -7549,7 +7549,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/golam-2024.jpg"
   },
   {
     "id": 840,
@@ -7558,7 +7558,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/anweshippin-kandethum-2024.jpg"
   },
   {
     "id": 841,
@@ -7567,7 +7567,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": posters/lucky-baskhar-2024.jpg""
   },
   {
     "id": 842,
@@ -7576,7 +7576,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/sookshma-darshini-2024.jpg"
   },
   {
     "id": 843,
@@ -7585,7 +7585,7 @@
     "origin": "Bollywood",
     "type": "Series",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/murder-in-mahim-s01-2024.jpg"
   },
   {
     "id": 844,
@@ -7594,7 +7594,7 @@
     "origin": "Bollywood",
     "type": "Series",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/shekhar-home-s01-2024.jpg"
   },
   {
     "id": 845,
@@ -7603,7 +7603,7 @@
     "origin": "Hollywood",
     "type": "Series",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/squid-game-season-02-2024.jpg"
   },
   {
     "id": 846,
@@ -7612,7 +7612,7 @@
     "origin": "Bollywood",
     "type": "Series",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/cubicles-season-04.jpg"
   },
   {
     "id": 847,
@@ -7621,7 +7621,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/warning-2-2024.jpg"
   },
   {
     "id": 848,
@@ -7630,7 +7630,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/level-cross-2024.jpg"
   },
   {
     "id": 849,
@@ -7639,7 +7639,7 @@
     "origin": "Bollywood",
     "type": "Series",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/sunflower-season-02-2024.jpg"
   },
   {
     "id": 850,
@@ -7648,16 +7648,16 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/nobody2.jpg"
   },
   {
     "id": 851,
-    "title": "The Old Gaurd",
+    "title": "The Old Gaurd 2",
     "year": 2025,
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/theoldgaurd2.jpg"
   },
   {
     "id": 852,
@@ -7666,16 +7666,16 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/BlindSpot.jpg"
   },
   {
     "id": 853,
     "title": "Stolen",
-    "year": 2025,
+    "year": 2023,
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/stolen-2023.jpg"
   },
   {
     "id": 854,
@@ -7684,7 +7684,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/Eleven.jpg"
   },
   {
     "id": 855,
@@ -7693,7 +7693,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/jollyllb3.jpg"
   },
   {
     "id": 856,
@@ -7702,7 +7702,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/EKO.jpg"
   },
   {
     "id": 857,
@@ -7711,7 +7711,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/pushpa2.jpg"
   },
   {
     "id": 858,
@@ -7720,7 +7720,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/murderreport.jpg"
   },
   {
     "id": 859,
@@ -7729,7 +7729,7 @@
     "origin": "Hollywood",
     "type": "Series",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/Squidgames3.jpg"
   },
   {
     "id": 860,
@@ -7738,7 +7738,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/Diablo.jpg"
   },
   {
     "id": 861,
@@ -7747,7 +7747,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/Hitthe3rdcase.jpg"
   },
   {
     "id": 862,
@@ -7756,7 +7756,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/TrapHouse.jpg"
   },
   {
     "id": 863,
@@ -7765,7 +7765,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/F1.jpg"
   },
   {
     "id": 864,
@@ -7774,7 +7774,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/mercy.jpg"
   },
   {
     "id": 865,
@@ -7783,7 +7783,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/Apex.jpg"
   },
 {
     "id": 866,
