@@ -5856,7 +5856,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/avengers-endgame-2019.jpg"
   },
   {
     "id": 652,
@@ -5865,7 +5865,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/men-in-black-international-2019.jpg"
   },
   {
     "id": 653,
@@ -5874,7 +5874,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/x-men-10-dark-phoenix-2019.jpg"
   },
   {
     "id": 654,
@@ -5883,7 +5883,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/the-lion-king-2019.jpg"
   },
   {
     "id": 655,
@@ -5892,7 +5892,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/bala-2019.jpg"
   },
   {
     "id": 656,
@@ -5901,16 +5901,16 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/chal-mera-putt-2019.jpg"
   },
   {
     "id": 657,
-    "title": "Chichoray",
+    "title": "chhichhore",
     "year": 2019,
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/chichoray-2019.jpg"
   },
   {
     "id": 658,
@@ -5919,7 +5919,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/dream-girl-2019.jpg"
   },
   {
     "id": 659,
