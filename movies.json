@@ -6414,7 +6414,7 @@
     "origin": "Bollywood",
     "type": "Series",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/the-gone-game-season-01-2020.jpg"
   },
   {
     "id": 714,
@@ -7829,5 +7829,23 @@
     "type": "Movie",
     "imdb": "",
     "poster": "posters/Bullettrain2022.jpg"
+  },
+{
+    "id": 871,
+    "title": "Predator Badlands",
+    "year": 2025,
+    "origin": "Hollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": "posters/predatorBadland.jpg"
+  },
+{
+    "id": 872,
+    "title": "M4M-Motive for Murder",
+    "year": 2026,
+    "origin": "Bollywood",
+    "type": "Movie",
+    "imdb": "",
+    "poster": "posters/M4MMotive for Murder.jpg"
   }
 ]
