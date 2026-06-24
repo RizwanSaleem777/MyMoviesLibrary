@@ -3435,7 +3435,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": "posters/safe-2012.jpg"
+    "poster": ""
   },
   {
     "id": 383,
@@ -3444,7 +3444,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/safe-2012.jpg"
   },
   {
     "id": 384,
@@ -3795,7 +3795,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": "postyers/prisoners-2013.jpg"
+    "poster": "posters/prisoners-2013.jpg"
   },
   {
     "id": 423,
