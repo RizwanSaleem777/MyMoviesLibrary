@@ -4299,7 +4299,7 @@
     "origin": "Bollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/singham-returns-2014.jpg"
   },
   {
     "id": 479,
@@ -4308,7 +4308,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/desierto-2015.jpg"
   },
   {
     "id": 480,
@@ -4317,7 +4317,7 @@
     "origin": "Hollywood",
     "type": "Movie",
     "imdb": "",
-    "poster": ""
+    "poster": "posters/desierto-2015.jpg"
   },
   {
     "id": 481,
@@ -4328,15 +4328,7 @@
     "imdb": "",
     "poster": ""
   },
-  {
-    "id": 482,
-    "title": "Focus",
-    "year": 2015,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": ""
-  },
+  
   {
     "id": 483,
     "title": "Hitman Agent 47",
