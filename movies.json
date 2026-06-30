@@ -3740,255 +3740,255 @@
   "genre": ["Crime"]
 },
   {
-    "id": 376,
-    "title": "Gone",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/gone-2012.jpg",
-    "genre": ["Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 377,
-    "title": "Jack Reacher 1",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/jack-reacher-1-2012.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 378,
-    "title": "James Bond Skyfall",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/james-bond-skyfall-2012.jpg",
-    "genre": ["Action","Adventure","Crime","Thriller"]
-  },
-  {
-    "id": 379,
-    "title": "John Carter",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/john-carter-2012.jpg",
-    "genre": ["Action","Adventure","Fantasy","Sci-Fi"]
-  },
-  {
-    "id": 380,
-    "title": "Life of Pi",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/life-of-pi-2012.jpg",
-    "genre": ["Adventure","Drama","Fantasy"]
-  },
-  {
-    "id": 381,
-    "title": "Man on a Ledge",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/man-on-a-ledge-2012.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 382,
-    "title": "Red Dawn",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/red-dawn-2012.jpg",
-    "genre": ["Action","Adventure","Drama","War"]
-  },
-  {
-    "id": 383,
-    "title": "Safe",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/safe-2012.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 384,
-    "title": "Safe House",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/safe-house-2012.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 385,
-    "title": "Taken 2",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/taken-2-2012.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 386,
-    "title": "The Amazing Spider Man 1",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-amazing-spider-man-1-2012.jpg",
-    "genre": ["Action","Adventure","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 387,
-    "title": "The Avengers",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-avengers-2012.jpg",
-    "genre": ["Action","Adventure","Sci-Fi"]
-  },
-  {
-    "id": 388,
-    "title": "The Bourne Legacy",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-bourne-legacy-2012.jpg",
-    "genre": ["Action","Adventure","Mystery","Thriller"]
-  },
-  {
-    "id": 389,
-    "title": "The Collection",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-collection-2012.jpg",
-    "genre": ["Action","Adventure","Horror","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 390,
-    "title": "The Dark Knight Rises",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-dark-knight-rises-2012.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 391,
-    "title": "The Dictator",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-dictator-2012.jpg",
-    "genre": ["Comedy","Drama"]
-  },
-  {
-    "id": 392,
-    "title": "The Hobbit An Unexpected Journey 1",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-hobbit-an-unexpected-journey-1-2012.jpg",
-    "genre": ["Adventure","Family","Fantasy"]
-  },
-  {
-    "id": 393,
-    "title": "The Impossible",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-impossible-2012.jpg",
-    "genre": ["Adventure","Drama","History","Thriller"]
-  },
-  {
-    "id": 394,
-    "title": "Total Recall",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/total-recall-2012.jpg",
-    "genre": ["Action","Adventure","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 395,
-    "title": "The Expandables 2",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-expandables-2-2012.jpg",
-    "genre": ["Action","Adventure","Thriller"]
-  },
-  {
-    "id": 396,
-    "title": "Men in Black III",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/men-in-black-iii-2012.jpg",
-    "genre": ["Action","Comedy","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 397,
-    "title": "Underworld Awakening",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/underworld-awakening-2012.jpg",
-    "genre": ["Action","Adventure","Fantasy","Horror","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 398,
-    "title": "Confession of Murder",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/confession-of-murder-2012.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 399,
-    "title": "Django Unchained",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/django-unchained-2012.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Western"]
-  },
-  {
-    "id": 400,
-    "title": "Carry On Jatta",
-    "year": 2012,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/carry-on-jatta-2012.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
+  "id": 376,
+  "title": "Gone",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/gone-2012.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 377,
+  "title": "Jack Reacher 1",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/jack-reacher-1-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 378,
+  "title": "James Bond Skyfall",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/james-bond-skyfall-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 379,
+  "title": "John Carter",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/john-carter-2012.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 380,
+  "title": "Life of Pi",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/life-of-pi-2012.jpg",
+  "genre": ["Adventure"]
+},
+{
+  "id": 381,
+  "title": "Man on a Ledge",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/man-on-a-ledge-2012.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 382,
+  "title": "Red Dawn",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/red-dawn-2012.jpg",
+  "genre": ["War"]
+},
+{
+  "id": 383,
+  "title": "Safe",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/safe-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 384,
+  "title": "Safe House",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/safe-house-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 385,
+  "title": "Taken 2",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/taken-2-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 386,
+  "title": "The Amazing Spider Man 1",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-amazing-spider-man-1-2012.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 387,
+  "title": "The Avengers",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-avengers-2012.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 388,
+  "title": "The Bourne Legacy",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-bourne-legacy-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 389,
+  "title": "The Collection",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-collection-2012.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 390,
+  "title": "The Dark Knight Rises",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-dark-knight-rises-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 391,
+  "title": "The Dictator",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-dictator-2012.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 392,
+  "title": "The Hobbit An Unexpected Journey 1",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-hobbit-an-unexpected-journey-1-2012.jpg",
+  "genre": ["Fantasy"]
+},
+{
+  "id": 393,
+  "title": "The Impossible",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-impossible-2012.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 394,
+  "title": "Total Recall",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/total-recall-2012.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 395,
+  "title": "The Expandables 2",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-expandables-2-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 396,
+  "title": "Men in Black III",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/men-in-black-iii-2012.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 397,
+  "title": "Underworld Awakening",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/underworld-awakening-2012.jpg",
+  "genre": ["Fantasy"]
+},
+{
+  "id": 398,
+  "title": "Confession of Murder",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/confession-of-murder-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 399,
+  "title": "Django Unchained",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/django-unchained-2012.jpg",
+  "genre": ["Western"]
+},
+{
+  "id": 400,
+  "title": "Carry On Jatta",
+  "year": 2012,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/carry-on-jatta-2012.jpg",
+  "genre": ["Comedy"]
+},
   {
     "id": 401,
     "title": "Gangs Of Wasseypur 1",
