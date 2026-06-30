@@ -577,7 +577,10 @@ line-height:1.4;
     <div id="toast">Message</div>
 
     <script>
+
+let browseFilter = "All";
         // State
+
         let movies = [];
 
         // Initialization
@@ -657,17 +660,36 @@ else if (browseFilter === "Series")
     matchesBrowse = movie.type === "Series";
 
             // Filter
-            let filteredMovies = movies.filter(movie => {
-                const matchesSearch = movie.title.toLowerCase().includes(searchTerm);
-                const matchesYear = yearFilter === 'All' || movie.year.toString() === yearFilter;
-                const matchesOrigin = originFilter === 'All' || movie.origin === originFilter;
-                const matchesType = typeFilter === 'All' || movie.type === typeFilter;
-                return matchesSearch &&
-       matchesYear &&
-       matchesOrigin &&
-       matchesType &&
-       matchesBrowse;
-            });
+           let filteredMovies = movies.filter(movie => {
+
+    const matchesSearch =
+        movie.title.toLowerCase().includes(searchTerm);
+
+    const matchesYear =
+        yearFilter === 'All' ||
+        movie.year.toString() === yearFilter;
+
+    const matchesOrigin =
+        originFilter === 'All' ||
+        movie.origin === originFilter;
+
+    const matchesType =
+        typeFilter === 'All' ||
+        movie.type === typeFilter;
+
+    const matchesBrowse =
+        browseFilter === "All" ||
+        (browseFilter === "Hollywood" && movie.origin === "Hollywood") ||
+        (browseFilter === "Bollywood" && movie.origin === "Bollywood") ||
+        (browseFilter === "Series" && movie.type === "Series");
+
+    return matchesSearch &&
+           matchesYear &&
+           matchesOrigin &&
+           matchesType &&
+           matchesBrowse;
+
+});
 function setBrowse(type, element){
 
     browseFilter = type;
