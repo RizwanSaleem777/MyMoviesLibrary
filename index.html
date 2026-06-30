@@ -113,11 +113,11 @@ background:#f5f5f5;
 
 .grid-container{
 display:grid;
-grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
-gap:24px;
-max-width:1450px;
-margin:auto;
-padding:0 20px 40px;
+grid-template-columns:repeat(auto-fill,minmax(205px,1fr));
+gap:22px;
+padding:0;
+margin:0;
+max-width:100%;
 }
 .movie-card{
 background:#fff;
@@ -178,6 +178,47 @@ color:#666;
 margin-top:10px;
 }
 
+.sidebar{
+background:#fff;
+border-radius:18px;
+padding:20px;
+box-shadow:0 8px 25px rgba(0,0,0,.06);
+position:sticky;
+top:100px;
+}
+
+.sidebar h3{
+margin-bottom:15px;
+font-size:18px;
+color:#333;
+}
+
+.sidebar hr{
+margin:20px 0;
+border:none;
+border-top:1px solid #ececec;
+}
+
+.side-item{
+padding:11px 14px;
+border-radius:12px;
+cursor:pointer;
+margin-bottom:6px;
+transition:.25s;
+font-size:15px;
+}
+
+.side-item:hover{
+background:#eef3ff;
+color:#4f46e5;
+}
+
+.side-item.active{
+background:#4f46e5;
+color:#fff;
+font-weight:600;
+}
+
         .modal-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); display: none; justify-content: center; align-items: center; z-index: 1000; }
         .modal { background: var(--card-bg); padding: 25px; border-radius: 8px; width: 90%; max-width: 500px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); }
         .modal h2 { margin-bottom: 20px; color: var(--text-main); }
@@ -223,9 +264,12 @@ color:#222;
 .mainLayout{
 max-width:1450px;
 margin:auto;
-padding:0 20px;
+padding:0 20px 40px;
+display:grid;
+grid-template-columns:240px 1fr;
+gap:25px;
+align-items:start;
 }
-
 .stat-title{
 margin-top:8px;
 color:#666;
@@ -321,6 +365,26 @@ font-size:15px;
 </div>
 
 <div id="mainLayout">
+<aside class="sidebar">
+
+<h3>Browse</h3>
+
+<div class="side-item active">🎬 All Movies</div>
+<div class="side-item">🎥 Hollywood</div>
+<div class="side-item">🍿 Bollywood</div>
+<div class="side-item">📺 Series</div>
+
+<hr>
+
+<h3>Genres</h3>
+
+<div id="genreList">
+
+<div class="side-item">Loading...</div>
+
+</div>
+
+</aside>
 
     <div class="grid-container" id="movieGrid">
     </div>
