@@ -6730,255 +6730,255 @@
   "genre": ["Drama"]
 },
   {
-    "id": 676,
-    "title": "Tripling Season-01",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/tripling-season-01-2019.jpg",
-    "genre": ["Comedy","Drama","Family"]
-  },
-  {
-    "id": 677,
-    "title": "Tripling Season-02",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/tripling-season-02-2019.jpg",
-    "genre": ["Comedy","Drama","Family"]
-  },
-  {
-    "id": 678,
-    "title": "Hello Mini Season-01",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/hello-mini-season-01-2019.jpg",
-    "genre": ["Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 679,
-    "title": "Cubicles Season-02",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/cubicles-season-02-2019.jpg",
-    "genre": ["Comedy","Drama"]
-  },
-  {
-    "id": 680,
-    "title": "The Umbrella Academy Season-01",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/the-umbrella-academy-season-01-2019.jpg",
-    "genre": ["Action","Adventure","Comedy","Sci-Fi"]
-  },
-  {
-    "id": 681,
-    "title": "The Witcher Season-01",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/the-witcher-season-01-2019.jpg",
-    "genre": ["Action","Adventure","Drama","Fantasy","Mystery"]
-  },
-  {
-    "id": 682,
-    "title": "Money Heist Season-03",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/money-heist-season-03-2019.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 683,
-    "title": "Bloodshot",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bloodshot-2020.jpg",
-    "genre": ["Action","Adventure","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 684,
-    "title": "Extraction",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/extraction-2020.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 685,
-    "title": "Go Karts",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/go-karts-2020.jpg",
-    "genre": ["Adventure","Drama","Family","Sport"]
-  },
-  {
-    "id": 686,
-    "title": "Monster Hunter",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/monster-hunter-2020.jpg",
-    "genre": ["Action","Adventure","Fantasy"]
-  },
-  {
-    "id": 687,
-    "title": "Most Dangerous Game",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/most-dangerous-game-2020.jpg",
-    "genre": ["Action","Adventure","Thriller"]
-  },
-  {
-    "id": 688,
-    "title": "Mulan",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mulan-2020.jpg",
-    "genre": ["Action","Adventure","Drama","Family","Fantasy","War"]
-  },
-  {
-    "id": 689,
-    "title": "Project Power",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/project-power-2020.jpg",
-    "genre": ["Action","Crime","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 690,
-    "title": "Lootcase",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/lootcase-2020.jpg",
-    "genre": ["Comedy","Crime","Drama"]
-  },
-  {
-    "id": 691,
-    "title": "Run Hide Fight",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/run-hide-fight-2020.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 692,
-    "title": "The Call",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-call-2020.jpg",
-    "genre": ["Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 693,
-    "title": "The Call Of The Wild",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-call-of-the-wild-2020.jpg",
-    "genre": ["Action","Adventure","Drama","Family"]
-  },
-  {
-    "id": 694,
-    "title": "The Old Guard",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-old-guard-2020.jpg",
-    "genre": ["Action","Adventure","Fantasy"]
-  },
-  {
-    "id": 695,
-    "title": "Unhinged",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/unhinged-2020.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 696,
-    "title": "Vanguard",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/vanguard-2020.jpg",
-    "genre": ["Action","Adventure","Comedy","Thriller"]
-  },
-  {
-    "id": 697,
-    "title": "Lost Bullet",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/lost-bullet-2020.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 698,
-    "title": "Ak vs Ak",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ak-vs-ak-2020.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 699,
-    "title": "Anjaam Pathiraa",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/anjaam-pathiraa-2020.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 700,
-    "title": "Ludo",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ludo-2020.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Thriller"]
-  },
+  "id": 676,
+  "title": "Tripling Season-01",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/tripling-season-01-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 677,
+  "title": "Tripling Season-02",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/tripling-season-02-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 678,
+  "title": "Hello Mini Season-01",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/hello-mini-season-01-2019.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 679,
+  "title": "Cubicles Season-02",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/cubicles-season-02-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 680,
+  "title": "The Umbrella Academy Season-01",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/the-umbrella-academy-season-01-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 681,
+  "title": "The Witcher Season-01",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/the-witcher-season-01-2019.jpg",
+  "genre": ["Fantasy"]
+},
+{
+  "id": 682,
+  "title": "Money Heist Season-03",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/money-heist-season-03-2019.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 683,
+  "title": "Bloodshot",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bloodshot-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 684,
+  "title": "Extraction",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/extraction-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 685,
+  "title": "Go Karts",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/go-karts-2020.jpg",
+  "genre": ["Sport"]
+},
+{
+  "id": 686,
+  "title": "Monster Hunter",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/monster-hunter-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 687,
+  "title": "Most Dangerous Game",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/most-dangerous-game-2020.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 688,
+  "title": "Mulan",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mulan-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 689,
+  "title": "Project Power",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/project-power-2020.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 690,
+  "title": "Lootcase",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/lootcase-2020.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 691,
+  "title": "Run Hide Fight",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/run-hide-fight-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 692,
+  "title": "The Call",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-call-2020.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 693,
+  "title": "The Call Of The Wild",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-call-of-the-wild-2020.jpg",
+  "genre": ["Adventure"]
+},
+{
+  "id": 694,
+  "title": "The Old Guard",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-old-guard-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 695,
+  "title": "Unhinged",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/unhinged-2020.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 696,
+  "title": "Vanguard",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/vanguard-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 697,
+  "title": "Lost Bullet",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/lost-bullet-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 698,
+  "title": "Ak vs Ak",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ak-vs-ak-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 699,
+  "title": "Anjaam Pathiraa",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/anjaam-pathiraa-2020.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 700,
+  "title": "Ludo",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ludo-2020.jpg",
+  "genre": ["Comedy"]
+},
 
   {
     "id": 701,
