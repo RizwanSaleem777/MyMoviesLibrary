@@ -344,6 +344,31 @@ min-width:280px;
             .controls { flex-direction: column; }
             .grid-container { grid-template-columns: 1fr 1fr; }
         }
+
+.badge{
+display:inline-block;
+padding:4px 10px;
+border-radius:20px;
+font-size:12px;
+font-weight:600;
+}
+
+.origin-badge{
+background:#e8f1ff;
+color:#2563eb;
+}
+
+.type-badge{
+background:#e8f7ec;
+color:#15803d;
+}
+
+.movie-genre{
+margin-top:10px;
+font-size:13px;
+color:#666;
+line-height:1.4;
+}
     </style>
 </head>
 <body>
@@ -611,9 +636,15 @@ min-width:280px;
                             <div class="movie-year">${movie.year}</div>
                             <div class="movie-title">${movie.title}</div>
                             <div class="movie-meta">
-                                <span>${movie.origin}</span>
-                                <span>${movie.type}</span>
-                            </div>
+    <span class="badge origin-badge">${movie.origin}</span>
+    <span class="badge type-badge">${movie.type}</span>
+</div>
+
+${movie.genre && movie.genre.length ? `
+<div class="movie-genre">
+    ${movie.genre.join(" • ")}
+</div>
+` : ""}
                             ${imdbLink ? `<div style="margin-bottom:10px; text-align:right;">${imdbLink}</div>` : ''}
                         </div>
                     `;
