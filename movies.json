@@ -6230,255 +6230,255 @@
   "genre": ["Adventure","Drama","Fantasy"]
 },
   {
-    "id": 626,
-    "title": "Thugs of Hindustan",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/thugs-of-hindustan-2018.jpg",
-    "genre": ["Action","Adventure","Drama"]
-  },
-  {
-    "id": 627,
-    "title": "Vikram Vedha",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/vikram-vedha-2018.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 628,
-    "title": "K G F Chapter 1",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/k-g-f-chapter-1-2018.jpg",
-    "genre": ["Action","Crime","Drama"]
-  },
-  {
-    "id": 629,
-    "title": "Master Z The Ip Man Legacy",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/master-z-the-ip-man-legacy-2018.jpg",
-    "genre": ["Action","Crime","Drama"]
-  },
-  {
-    "id": 630,
-    "title": "Apharan Season-01",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/apharan-season-01-2018.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 631,
-    "title": "College Romance Season-01",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/college-romance-season-01-2018.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 632,
-    "title": "Broken But Beautiful Season-01",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/broken-but-beautiful-season-01-2018.jpg",
-    "genre": ["Drama","Romance"]
-  },
-  {
-    "id": 633,
-    "title": "Broken But Beautiful Season-02",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/broken-but-beautiful-season-02-2018.jpg",
-    "genre": ["Drama","Romance"]
-  },
-  {
-    "id": 634,
-    "title": "Mirzapur Season-01",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/mirzapur-season-01-2018.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 635,
-    "title": "Money Heist Season-02",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/money-heist-season-02-2018.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 636,
-    "title": "1917",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/1917-2019.jpg",
-    "genre": ["Action","Drama","War"]
-  },
-  {
-    "id": 637,
-    "title": "Angel Has Fallen",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/angel-has-fallen-2019.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 638,
-    "title": "Escape Room",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/escape-room-2019.jpg",
-    "genre": ["Adventure","Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 639,
-    "title": "Fast & Furious Presents Hobbs & Shaw",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/fast-and-furious-presents-hobbs-and-shaw-2019.jpg",
-    "genre": ["Action","Adventure","Comedy","Thriller"]
-  },
-  {
-    "id": 640,
-    "title": "Ford V Ferrari",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ford-v-ferrari-2019.jpg",
-    "genre": ["Action","Biography","Drama","Sport"]
-  },
-  {
-    "id": 641,
-    "title": "Glass",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/glass-2019.jpg",
-    "genre": ["Drama","Mystery","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 642,
-    "title": "How to Train Your Dragon 3",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/how-to-train-your-dragon-3-2019.jpg",
-    "genre": ["Animation","Action","Adventure","Comedy","Family","Fantasy"]
-  },
-  {
-    "id": 643,
-    "title": "John Wick 3",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/john-wick-3-2019.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 644,
-    "title": "Jumanji The Next Level",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/jumanji-the-next-level-2019.jpg",
-    "genre": ["Action","Adventure","Comedy","Fantasy"]
-  },
-  {
-    "id": 645,
-    "title": "Point Blank",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/point-blank-2019.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 646,
-    "title": "Rambo The Last Blood",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/rambo-the-last-blood-2019.jpg",
-    "genre": ["Action","Adventure","Crime","Thriller"]
-  },
-  {
-    "id": 647,
-    "title": "Spiderman Far From Home",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/spiderman-far-from-home-2019.jpg",
-    "genre": ["Action","Adventure","Sci-Fi"]
-  },
-  {
-    "id": 648,
-    "title": "The Courier",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-courier-2019.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 649,
-    "title": "Triple Frontier",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/triple-frontier-2019.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 650,
-    "title": "Triple Threat",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/triple-threat-2019.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
+  "id": 626,
+  "title": "Thugs of Hindustan",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/thugs-of-hindustan-2018.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 627,
+  "title": "Vikram Vedha",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/vikram-vedha-2018.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 628,
+  "title": "K G F Chapter 1",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/k-g-f-chapter-1-2018.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 629,
+  "title": "Master Z The Ip Man Legacy",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/master-z-the-ip-man-legacy-2018.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 630,
+  "title": "Apharan Season-01",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/apharan-season-01-2018.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 631,
+  "title": "College Romance Season-01",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/college-romance-season-01-2018.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 632,
+  "title": "Broken But Beautiful Season-01",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/broken-but-beautiful-season-01-2018.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 633,
+  "title": "Broken But Beautiful Season-02",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/broken-but-beautiful-season-02-2018.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 634,
+  "title": "Mirzapur Season-01",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/mirzapur-season-01-2018.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 635,
+  "title": "Money Heist Season-02",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/money-heist-season-02-2018.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 636,
+  "title": "1917",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/1917-2019.jpg",
+  "genre": ["War"]
+},
+{
+  "id": 637,
+  "title": "Angel Has Fallen",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/angel-has-fallen-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 638,
+  "title": "Escape Room",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/escape-room-2019.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 639,
+  "title": "Fast & Furious Presents Hobbs & Shaw",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/fast-and-furious-presents-hobbs-and-shaw-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 640,
+  "title": "Ford V Ferrari",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ford-v-ferrari-2019.jpg",
+  "genre": ["Sport"]
+},
+{
+  "id": 641,
+  "title": "Glass",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/glass-2019.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 642,
+  "title": "How to Train Your Dragon 3",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/how-to-train-your-dragon-3-2019.jpg",
+  "genre": ["Animation"]
+},
+{
+  "id": 643,
+  "title": "John Wick 3",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/john-wick-3-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 644,
+  "title": "Jumanji The Next Level",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/jumanji-the-next-level-2019.jpg",
+  "genre": ["Adventure"]
+},
+{
+  "id": 645,
+  "title": "Point Blank",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/point-blank-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 646,
+  "title": "Rambo The Last Blood",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/rambo-the-last-blood-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 647,
+  "title": "Spiderman Far From Home",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/spiderman-far-from-home-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 648,
+  "title": "The Courier",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-courier-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 649,
+  "title": "Triple Frontier",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/triple-frontier-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 650,
+  "title": "Triple Threat",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/triple-threat-2019.jpg",
+  "genre": ["Action"]
+},
   {
   "id": 651,
   "title": "Avengers Endgame",
