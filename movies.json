@@ -2000,255 +2000,255 @@
   "genre": ["Action"]
 },
   {
-    "id": 201,
-    "title": "Final Destination 3",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/final-destination-3-2006.jpg",
-    "genre": ["Horror","Thriller"]
-  },
-  {
-    "id": 202,
-    "title": "Firewall",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/firewall-2006.jpg",
-    "genre": ["Crime","Thriller"]
-  },
-  {
-    "id": 203,
-    "title": "Inside Man",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/inside-man-2006.jpg",
-    "genre": ["Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 204,
-    "title": "James Bond Casino Royale",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/james-bond-casino-royale-2006.jpg",
-    "genre": ["Action","Adventure","Thriller"]
-  },
-  {
-    "id": 205,
-    "title": "Mission Impossible",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mission-impossible-2006.jpg",
-    "genre": ["Action","Adventure","Thriller"]
-  },
-  {
-    "id": 206,
-    "title": "Pirates Of The Caribbean 2",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/pirates-of-the-caribbean-2-2006.jpg",
-    "genre": ["Action","Adventure","Fantasy"]
-  },
-  {
-    "id": 207,
-    "title": "Rescue Dawn",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/rescue-dawn-2006.jpg",
-    "genre": ["Action","Adventure","Drama","War"]
-  },
-  {
-    "id": 208,
-    "title": "Seraphim Falls",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/seraphim-falls-2006.jpg",
-    "genre": ["Action","Adventure","Drama","Western"]
-  },
-  {
-    "id": 209,
-    "title": "The Net 2.0",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-net-2-0-2006.jpg",
-    "genre": ["Crime","Thriller"]
-  },
-  {
-    "id": 210,
-    "title": "The Prestige",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-prestige-2006.jpg",
-    "genre": ["Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 211,
-    "title": "When A Stranger Calls",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/when-a-stranger-calls-2006.jpg",
-    "genre": ["Horror","Thriller"]
-  },
-  {
-    "id": 212,
-    "title": "The Contract",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-contract-2006.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 213,
-    "title": "X Men 3",
-    "year": 2006,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/x-men-3-2006.jpg",
-    "genre": ["Action","Sci-Fi","Adventure"]
-  },
-  {
-    "id": 214,
-    "title": "Bhagam Bhag",
-    "year": 2006,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bhagam-bhag-2006.jpg",
-    "genre": ["Comedy","Crime","Mystery"]
-  },
-  {
-    "id": 215,
-    "title": "Golmaal- Fun Unlimited",
-    "year": 2006,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/golmaal-fun-unlimited-2006.jpg",
-    "genre": ["Comedy","Romance"]
-  },
-  {
-    "id": 216,
-    "title": "Khosla Ka Ghosla",
-    "year": 2006,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/khosla-ka-ghosla-2006.jpg",
-    "genre": ["Comedy","Drama"]
-  },
-  {
-    "id": 217,
-    "title": "Phir Hera Pheri",
-    "year": 2006,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/phir-hera-pheri-2006.jpg",
-    "genre": ["Comedy","Crime"]
-  },
-  {
-    "id": 218,
-    "title": "Vivah",
-    "year": 2006,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/vivah-2006.jpg",
-    "genre": ["Drama","Family","Romance"]
-  },
-  {
-    "id": 219,
-    "title": "Kabhi Alvida Naa Kehna",
-    "year": 2006,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/kabhi-alvida-naa-kehna-2006.jpg",
-    "genre": ["Drama","Romance"]
-  },
-  {
-    "id": 220,
-    "title": "Don",
-    "year": 2006,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/don-2006.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 221,
-    "title": "3 10 To Yuma",
-    "year": 2007,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/3-10-to-yuma-2007.jpg",
-    "genre": ["Action","Crime","Drama","Western"]
-  },
-  {
-    "id": 222,
-    "title": "30 Days of Night",
-    "year": 2007,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/30-days-of-night-2007.jpg",
-    "genre": ["Horror","Thriller"]
-  },
-  {
-    "id": 223,
-    "title": "Disturbia",
-    "year": 2007,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/disturbia-2007.jpg",
-    "genre": ["Mystery","Thriller"]
-  },
-  {
-    "id": 224,
-    "title": "Fracture",
-    "year": 2007,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/fracture-2007.jpg",
-    "genre": ["Crime","Drama","Thriller"]
-  },
-  {
-    "id": 225,
-    "title": "Hitman",
-    "year": 2007,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/hitman-2007.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
+  "id": 201,
+  "title": "Final Destination 3",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/final-destination-3-2006.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 202,
+  "title": "Firewall",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/firewall-2006.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 203,
+  "title": "Inside Man",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/inside-man-2006.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 204,
+  "title": "James Bond Casino Royale",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/james-bond-casino-royale-2006.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 205,
+  "title": "Mission Impossible",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mission-impossible-2006.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 206,
+  "title": "Pirates Of The Caribbean 2",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/pirates-of-the-caribbean-2-2006.jpg",
+  "genre": ["Fantasy"]
+},
+{
+  "id": 207,
+  "title": "Rescue Dawn",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/rescue-dawn-2006.jpg",
+  "genre": ["War"]
+},
+{
+  "id": 208,
+  "title": "Seraphim Falls",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/seraphim-falls-2006.jpg",
+  "genre": ["Western"]
+},
+{
+  "id": 209,
+  "title": "The Net 2.0",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-net-2-0-2006.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 210,
+  "title": "The Prestige",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-prestige-2006.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 211,
+  "title": "When A Stranger Calls",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/when-a-stranger-calls-2006.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 212,
+  "title": "The Contract",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-contract-2006.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 213,
+  "title": "X Men 3",
+  "year": 2006,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/x-men-3-2006.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 214,
+  "title": "Bhagam Bhag",
+  "year": 2006,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bhagam-bhag-2006.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 215,
+  "title": "Golmaal- Fun Unlimited",
+  "year": 2006,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/golmaal-fun-unlimited-2006.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 216,
+  "title": "Khosla Ka Ghosla",
+  "year": 2006,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/khosla-ka-ghosla-2006.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 217,
+  "title": "Phir Hera Pheri",
+  "year": 2006,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/phir-hera-pheri-2006.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 218,
+  "title": "Vivah",
+  "year": 2006,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/vivah-2006.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 219,
+  "title": "Kabhi Alvida Naa Kehna",
+  "year": 2006,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/kabhi-alvida-naa-kehna-2006.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 220,
+  "title": "Don",
+  "year": 2006,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/don-2006.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 221,
+  "title": "3 10 To Yuma",
+  "year": 2007,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/3-10-to-yuma-2007.jpg",
+  "genre": ["Western"]
+},
+{
+  "id": 222,
+  "title": "30 Days of Night",
+  "year": 2007,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/30-days-of-night-2007.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 223,
+  "title": "Disturbia",
+  "year": 2007,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/disturbia-2007.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 224,
+  "title": "Fracture",
+  "year": 2007,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/fracture-2007.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 225,
+  "title": "Hitman",
+  "year": 2007,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/hitman-2007.jpg",
+  "genre": ["Action"]
+},
   {
     "id": 226,
     "title": "I Am Legend",
