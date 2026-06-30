@@ -706,18 +706,6 @@ return matchesSearch &&
             const sortedMovies = getSortedMovies(filteredMovies);
 document.getElementById("resultsInfo").textContent =
     `Showing ${sortedMovies.length} Movie${sortedMovies.length !== 1 ? "s" : ""}`;
-function setBrowse(type, element){
-
-    browseFilter = type;
-
-    document.querySelectorAll(".sidebar .side-item").forEach(item=>{
-        item.classList.remove("active");
-    });
-
-    element.classList.add("active");
-
-    renderMovies();
-}
 
             // Generate HTML
             grid.innerHTML = '';
@@ -759,6 +747,19 @@ ${movie.genre && movie.genre.length ? `
 
             updateStats(sortedMovies.length);
         }
+function setBrowse(type, element){
+
+    browseFilter = type;
+
+    document.querySelectorAll(".sidebar .side-item").forEach(item=>{
+        item.classList.remove("active");
+    });
+
+    element.classList.add("active");
+
+    renderMovies();
+}
+
 
         // Update Statistics
         function updateStats(count = null) {
