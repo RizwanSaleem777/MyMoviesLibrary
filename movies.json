@@ -7231,505 +7231,505 @@
   "genre": ["Action"]
 },
   {
-    "id": 726,
-    "title": "The Suicide Squad",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-suicide-squad-2021.jpg",
-    "genre": ["Action","Adventure","Comedy","Fantasy","Sci-Fi"]
-  },
+  "id": 726,
+  "title": "The Suicide Squad",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-suicide-squad-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 727,
+  "title": "Venom 2",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/venom-2-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 728,
+  "title": "Wrath OF Man",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/wrath-of-man-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 729,
+  "title": "Warning",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/warning-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 730,
+  "title": "The Protege",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-protege-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 731,
+  "title": "Spiderman No Way Home(extended Version)",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/spiderman-no-way-home-extended-version-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 732,
+  "title": "Till Death",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/till-death-2021.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 733,
+  "title": "The Marksman",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-marksman-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 734,
+  "title": "Raya And The Last Dragon",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/raya-and-the-last-dragon-2021.jpg",
+  "genre": ["Animation"]
+},
+{
+  "id": 735,
+  "title": "King Richard",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/king-richard-2021.jpg",
+  "genre": ["Sport"]
+},
+{
+  "id": 736,
+  "title": "Army Of The Dead",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/army-of-the-dead-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 737,
+  "title": "Midnight",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/midnight-2021.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 738,
+  "title": "Bob Biswas",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bob-biswas-2021.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 739,
+  "title": "Chandigarh Kare Aashiqui",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/chandigarh-kare-aashiqui-2021.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 740,
+  "title": "Dhamaka",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/dhamaka-2021.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 741,
+  "title": "Drishyam",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/drishyam-2015.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 742,
+  "title": "Prime Witness",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/prime-witness-2021.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 743,
+  "title": "The Girl On The Train",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-girl on the train.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 744,
+  "title": "The Power",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-power-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 745,
+  "title": "V",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/v-2020.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 746,
+  "title": "Sanak",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/sanak-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 747,
+  "title": "College Romance Season-02",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/college-romance-season-02-2021.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 748,
+  "title": "Hello Mini Seson-02",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/hello-mini-seson-02-2021.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 749,
+  "title": "Hostel Daze Season-02",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/hostel-daze-season-02-2021.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 750,
+  "title": "Kota Factory Season-02",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/kota-factory-season-02-2021.jpg",
+  "genre": ["Comedy"]
+},
   {
-    "id": 727,
-    "title": "Venom 2",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/venom-2-2021.jpg",
-    "genre": ["Action","Adventure","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 728,
-    "title": "Wrath OF Man",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/wrath-of-man-2021.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 729,
-    "title": "Warning",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/warning-2021.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 730,
-    "title": "The Protege",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-protege-2021.jpg",
-    "genre": ["Action","Adventure","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 731,
-    "title": "Spiderman No Way Home(extended Version)",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/spiderman-no-way-home-extended-version-2021.jpg",
-    "genre": ["Action","Adventure","Fantasy","Sci-Fi"]
-  },
-  {
-    "id": 732,
-    "title": "Till Death",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/till-death-2021.jpg",
-    "genre": ["Action","Adventure","Crime","Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 733,
-    "title": "The Marksman",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-marksman-2021.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 734,
-    "title": "Raya And The Last Dragon",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/raya-and-the-last-dragon-2021.jpg",
-    "genre": ["Animation","Action","Adventure","Comedy","Family","Fantasy","Mystery","Sci-Fi"]
-  },
-  {
-    "id": 735,
-    "title": "King Richard",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/king-richard-2021.jpg",
-    "genre": ["Biography","Drama","Sport"]
-  },
-  {
-    "id": 736,
-    "title": "Army Of The Dead",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/army-of-the-dead-2021.jpg",
-    "genre": ["Action","Adventure","Crime","Horror","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 737,
-    "title": "Midnight",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/midnight-2021.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 738,
-    "title": "Bob Biswas",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bob-biswas-2021.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 739,
-    "title": "Chandigarh Kare Aashiqui",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/chandigarh-kare-aashiqui-2021.jpg",
-    "genre": ["Comedy","Drama","Romance","Sport"]
-  },
-  {
-    "id": 740,
-    "title": "Dhamaka",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/dhamaka-2021.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 741,
-    "title": "Drishyam",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/drishyam-2015.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 742,
-    "title": "Prime Witness",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/prime-witness-2021.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 743,
-    "title": "The Girl On The Train",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-girl on the train.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 744,
-    "title": "The Power",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-power-2021.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 745,
-    "title": "V",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/v-2020.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 746,
-    "title": "Sanak",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/sanak-2021.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 747,
-    "title": "College Romance Season-02",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/college-romance-season-02-2021.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 748,
-    "title": "Hello Mini Seson-02",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/hello-mini-seson-02-2021.jpg",
-    "genre": ["Drama","Mystery","Romance","Thriller"]
-  },
-  {
-    "id": 749,
-    "title": "Hostel Daze Season-02",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/hostel-daze-season-02-2021.jpg",
-    "genre": ["Comedy","Drama"]
-  },
-  {
-    "id": 750,
-    "title": "Kota Factory Season-02",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/kota-factory-season-02-2021.jpg",
-    "genre": ["Comedy","Drama"]
-  },
-  {
-    "id": 751,
-    "title": "Sunflower Season-01",
-    "year": 2021,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/sunflower-season-01-2021.jpg",
-    "genre": ["Comedy","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 752,
-    "title": "Squid Game Season-01",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/squid-game-season-01-2021.jpg",
-    "genre": ["Action","Adventure","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 753,
-    "title": "Money Heist Season-05",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/money-heist-season-05-2021.jpg",
-    "genre": ["Action","Adventure","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 754,
-    "title": "Lost Bullet 2",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/lost-bullet-2-2022.jpg",
-    "genre": ["Action","Adventure","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 755,
-    "title": "The Gray Man",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-gray-man-2022.jpg",
-    "genre": ["Action","Adventure","Crime","Mystery","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 756,
-    "title": "Black Adam",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/black-adam-2022.jpg",
-    "genre": ["Action","Adventure","Fantasy","Sci-Fi"]
-  },
-  {
-    "id": 757,
-    "title": "Thor Love and Thunder",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/thor-love-and-thunder-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Fantasy","Romance","Sci-Fi"]
-  },
-  {
-    "id": 758,
-    "title": "My Name Is Vendetta",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/my-name-is-vendetta-2022.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 759,
-    "title": "HIT The 2nd Case",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/hit-the-2nd-case-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 760,
-    "title": "Prey",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/prey-2022.jpg",
-    "genre": ["Action","Adventure","Drama","Horror","Sci-Fi","Thriller","Western"]
-  },
-  {
-    "id": 761,
-    "title": "HIT The First Case",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/hit-the-first-case-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 762,
-    "title": "Uncharted",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/uncharted-2022.jpg",
-    "genre": ["Action","Adventure","Mystery","Thriller"]
-  },
-  {
-    "id": 763,
-    "title": "Avatar 2 The Way Of Water",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/avatar-2-the-way-of-water-2022.jpg",
-    "genre": ["Action","Adventure","Family","Fantasy","Sci-Fi"]
-  },
-  {
-    "id": 764,
-    "title": "A Man Called Otto",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/a-man-called-otto-2022.jpg",
-    "genre": ["Comedy","Drama","Family","Romance"]
-  },
-  {
-    "id": 765,
-    "title": "No Exit",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/no-exit-2022.jpg",
-    "genre": ["Crime","Drama","Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 766,
-    "title": "The Killer A Girl Who Deserves To Die",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-killer-a-girl-who-deserves-to-die-2022.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Romance","Thriller"]
-  },
-  {
-    "id": 767,
-    "title": "Pushpa The Rise Part 1",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/pushpa-the-rise-part-1-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 768,
-    "title": "CBI 5 The Brain",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/cbi-5-the-brain-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 769,
-    "title": "Doctor G",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/doctor-g-2022.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 770,
-    "title": "Cuttputli",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/cuttputli-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 771,
-    "title": "Ek Villain Returns",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ek-villain-returns-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 772,
-    "title": "777 Charlie",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/777-charlie-2022.jpg",
-    "genre": ["Adventure","Comedy","Drama","Family"]
-  },
-  {
-    "id": 773,
-    "title": "Blurr",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/blurr-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 774,
-    "title": "Vikram",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/vikram-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 775,
-    "title": "Drishyam 2",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/drishyam-2-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
+  "id": 751,
+  "title": "Sunflower Season-01",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/sunflower-season-01-2021.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 752,
+  "title": "Squid Game Season-01",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/squid-game-season-01-2021.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 753,
+  "title": "Money Heist Season-05",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/money-heist-season-05-2021.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 754,
+  "title": "Lost Bullet 2",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/lost-bullet-2-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 755,
+  "title": "The Gray Man",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-gray-man-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 756,
+  "title": "Black Adam",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/black-adam-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 757,
+  "title": "Thor Love and Thunder",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/thor-love-and-thunder-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 758,
+  "title": "My Name Is Vendetta",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/my-name-is-vendetta-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 759,
+  "title": "HIT The 2nd Case",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/hit-the-2nd-case-2022.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 760,
+  "title": "Prey",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/prey-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 761,
+  "title": "HIT The First Case",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/hit-the-first-case-2022.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 762,
+  "title": "Uncharted",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/uncharted-2022.jpg",
+  "genre": ["Adventure"]
+},
+{
+  "id": 763,
+  "title": "Avatar 2 The Way Of Water",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/avatar-2-the-way-of-water-2022.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 764,
+  "title": "A Man Called Otto",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/a-man-called-otto-2022.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 765,
+  "title": "No Exit",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/no-exit-2022.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 766,
+  "title": "The Killer A Girl Who Deserves To Die",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-killer-a-girl-who-deserves-to-die-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 767,
+  "title": "Pushpa The Rise Part 1",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/pushpa-the-rise-part-1-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 768,
+  "title": "CBI 5 The Brain",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/cbi-5-the-brain-2022.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 769,
+  "title": "Doctor G",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/doctor-g-2022.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 770,
+  "title": "Cuttputli",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/cuttputli-2022.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 771,
+  "title": "Ek Villain Returns",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ek-villain-returns-2022.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 772,
+  "title": "777 Charlie",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/777-charlie-2022.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 773,
+  "title": "Blurr",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/blurr-2022.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 774,
+  "title": "Vikram",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/vikram-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 775,
+  "title": "Drishyam 2",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/drishyam-2-2022.jpg",
+  "genre": ["Thriller"]
+},
   {
     "id": 776,
     "title": "Mili",
