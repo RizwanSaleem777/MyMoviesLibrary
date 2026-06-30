@@ -520,14 +520,11 @@ Series
                 types[m.type] = (types[m.type] || 0) + 1;
             });
 
-            const statsHtml = `
-                <div class="stat-item">Total: <span>${movies.length}</span></div>
-                <div class="stat-item">Hollywood: <span>${origins['Hollywood'] || 0}</span></div>
-                <div class="stat-item">Bollywood: <span>${origins['Bollywood'] || 0}</span></div>
-                <div class="stat-item">Movies: <span>${types['Movie'] || 0}</span></div>
-                <div class="stat-item">Series: <span>${types['Series'] || 0}</span></div>
-            `;
-            document.getElementById('statsBar').innerHTML = statsHtml;
+           
+            document.getElementById("totalMovies").innerText = movies.length;
+document.getElementById("hollywoodCount").innerText = origins["Hollywood"] || 0;
+document.getElementById("bollywoodCount").innerText = origins["Bollywood"] || 0;
+document.getElementById("seriesCount").innerText = types["Series"] || 0;
         }
 
         // --- MODAL HANDLING ---
