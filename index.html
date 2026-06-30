@@ -648,16 +648,7 @@ let browseFilter = "All";
             const yearFilter = document.getElementById('yearFilter').value;
             const originFilter = document.getElementById('originFilter').value;
             const typeFilter = document.getElementById('typeFilter').value;
-let matchesBrowse = true;
 
-if (browseFilter === "Hollywood")
-    matchesBrowse = movie.origin === "Hollywood";
-
-else if (browseFilter === "Bollywood")
-    matchesBrowse = movie.origin === "Bollywood";
-
-else if (browseFilter === "Series")
-    matchesBrowse = movie.type === "Series";
 
             // Filter
            let filteredMovies = movies.filter(movie => {
