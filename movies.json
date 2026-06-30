@@ -4980,255 +4980,255 @@
   "genre": ["Thriller"]
 },
   {
-    "id": 501,
-    "title": "Avengers Age Of Ultron",
-    "year": 2015,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/avengers-age-of-ultron-2015.jpg",
-    "genre": ["Action","Adventure","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 502,
-    "title": "Ant Man",
-    "year": 2015,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ant-man-2015.jpg",
-    "genre": ["Action","Adventure","Comedy","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 503,
-    "title": "IP Man 3",
-    "year": 2015,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ip-man-3-2015.jpg",
-    "genre": ["Action","Biography","Drama","History","Mystery","Thriller"]
-  },
-  {
-    "id": 504,
-    "title": "Angrej",
-    "year": 2015,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/angrej-2015.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 505,
-    "title": "Baahubali",
-    "year": 2015,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/baahubali-2015.jpg",
-    "genre": ["Action","Adventure","Drama","Fantasy","War"]
-  },
-  {
-    "id": 506,
-    "title": "Dharam Sankat Mein",
-    "year": 2015,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/dharam-sankat-mein-2015.jpg",
-    "genre": ["Comedy","Drama","Family"]
-  },
-  {
-    "id": 507,
-    "title": "Drishyam",
-    "year": 2015,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/drishyam-2015.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 508,
-    "title": "Hamari Adhuri Kahani",
-    "year": 2015,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/hamari-adhuri-kahani-2015.jpg",
-    "genre": ["Drama","Romance"]
-  },
-  {
-    "id": 509,
-    "title": "Piyar Ka Punchnama 2",
-    "year": 2015,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/piyar-ka-punchnama-2-2015.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 510,
-    "title": "Rahasya",
-    "year": 2015,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/rahasya-2015.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 511,
-    "title": "Tevar",
-    "year": 2015,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/tevar-2015.jpg",
-    "genre": ["Action","Comedy","Drama","Romance","Thriller"]
-  },
-  {
-    "id": 512,
-    "title": "Bajrangi Bhaijaan",
-    "year": 2015,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bajrangi-bhaijaan-2015.jpg",
-    "genre": ["Action","Comedy","Drama","Family","Romance","Thriller"]
-  },
-  {
-    "id": 513,
-    "title": "Allegiant",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/allegiant-2016.jpg",
-    "genre": ["Action","Adventure","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 514,
-    "title": "Blood Father",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/blood-father-2016.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 515,
-    "title": "Criminal",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/criminal-2016.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 516,
-    "title": "Deadpool 1",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/deadpool-1-2016.jpg",
-    "genre": ["Action","Adventure","Comedy","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 517,
-    "title": "Don't Breathe",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/don-t-breathe-2016.jpg",
-    "genre": ["Crime","Drama","Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 518,
-    "title": "Hush",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/hush-2016.jpg",
-    "genre": ["Drama","Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 519,
-    "title": "Inferno",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/inferno-2016.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 520,
-    "title": "Jack Reacher 2",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/jack-reacher-2-2016.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 521,
-    "title": "Jason Bourne",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/jason-bourne-2016.jpg",
-    "genre": ["Action","Adventure","Mystery","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 522,
-    "title": "Underworld Blood Wars",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/underworld-blood-wars-2016.jpg",
-    "genre": ["Action","Adventure","Fantasy","Horror","Mystery","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 523,
-    "title": "Kubo and the Two Strings",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/kubo-and-the-two-strings-2016.jpg",
-    "genre": ["Animation","Action","Adventure","Family","Fantasy","Mystery","Sci-Fi"]
-  },
-  {
-    "id": 524,
-    "title": "Mechanic Resurrection",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mechanic-resurrection-2016.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 525,
-    "title": "Now You See Me 2",
-    "year": 2016,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/now-you-see-me-2-2016.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Mystery","Thriller"]
-  },
+  "id": 501,
+  "title": "Avengers Age Of Ultron",
+  "year": 2015,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/avengers-age-of-ultron-2015.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 502,
+  "title": "Ant Man",
+  "year": 2015,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ant-man-2015.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 503,
+  "title": "IP Man 3",
+  "year": 2015,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ip-man-3-2015.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 504,
+  "title": "Angrej",
+  "year": 2015,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/angrej-2015.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 505,
+  "title": "Baahubali",
+  "year": 2015,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/baahubali-2015.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 506,
+  "title": "Dharam Sankat Mein",
+  "year": 2015,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/dharam-sankat-mein-2015.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 507,
+  "title": "Drishyam",
+  "year": 2015,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/drishyam-2015.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 508,
+  "title": "Hamari Adhuri Kahani",
+  "year": 2015,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/hamari-adhuri-kahani-2015.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 509,
+  "title": "Piyar Ka Punchnama 2",
+  "year": 2015,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/piyar-ka-punchnama-2-2015.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 510,
+  "title": "Rahasya",
+  "year": 2015,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/rahasya-2015.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 511,
+  "title": "Tevar",
+  "year": 2015,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/tevar-2015.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 512,
+  "title": "Bajrangi Bhaijaan",
+  "year": 2015,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bajrangi-bhaijaan-2015.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 513,
+  "title": "Allegiant",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/allegiant-2016.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 514,
+  "title": "Blood Father",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/blood-father-2016.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 515,
+  "title": "Criminal",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/criminal-2016.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 516,
+  "title": "Deadpool 1",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/deadpool-1-2016.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 517,
+  "title": "Don't Breathe",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/don-t-breathe-2016.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 518,
+  "title": "Hush",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/hush-2016.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 519,
+  "title": "Inferno",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/inferno-2016.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 520,
+  "title": "Jack Reacher 2",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/jack-reacher-2-2016.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 521,
+  "title": "Jason Bourne",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/jason-bourne-2016.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 522,
+  "title": "Underworld Blood Wars",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/underworld-blood-wars-2016.jpg",
+  "genre": ["Fantasy"]
+},
+{
+  "id": 523,
+  "title": "Kubo and the Two Strings",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/kubo-and-the-two-strings-2016.jpg",
+  "genre": ["Animation"]
+},
+{
+  "id": 524,
+  "title": "Mechanic Resurrection",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mechanic-resurrection-2016.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 525,
+  "title": "Now You See Me 2",
+  "year": 2016,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/now-you-see-me-2-2016.jpg",
+  "genre": ["Mystery"]
+},
   {
     "id": 526,
     "title": "Pete's Dragon",
