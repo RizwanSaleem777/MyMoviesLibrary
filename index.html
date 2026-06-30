@@ -595,20 +595,30 @@ let browseFilter = "All";
             setupEventListeners();
         });
 
-        // Load Data
-        async function loadMovies() {
-            try {
-                const response = await fetch('movies.json');
-                if (!response.ok) throw new Error('Failed to load movies.json');
-                movies = await response.json();
-                populateYearFilter(); 
-                renderMovies();
-            } catch (error) {
-                console.error('Error loading movies:', error);
-                document.getElementById('movieGrid').innerHTML = '<p style="text-align:center; padding:20px;">Failed to load movies. Ensure movies.json exists.</p>';
-                updateStats();
-            }
-        }
+      // Load Data
+async function loadMovies() {
+    try {
+        const response = await fetch('movies.json');
+        if (!response.ok) throw new Error('Failed to load movies.json');
+
+        movies = await response.json();
+
+        populateYearFilter();
+
+        renderGenres();
+
+        renderMovies();
+
+    } catch (error) {
+
+        console.error('Error loading movies:', error);
+
+        document.getElementById('movieGrid').innerHTML =
+            '<p style="text-align:center; padding:20px;">Failed to load movies. Ensure movies.json exists.</p>';
+
+        updateStats();
+    }
+}
 
         // Populate Year Filter Dropdown
         function populateYearFilter() {
@@ -658,35 +668,38 @@ let browseFilter = "All";
 
             // Filter
            let filteredMovies = movies.filter(movie => {
+const matchesSearch =
+    movie.title.toLowerCase().includes(searchTerm);
 
-    const matchesSearch =
-        movie.title.toLowerCase().includes(searchTerm);
+const matchesYear =
+    yearFilter === 'All' ||
+    movie.year.toString() === yearFilter;
 
-    const matchesYear =
-        yearFilter === 'All' ||
-        movie.year.toString() === yearFilter;
+const matchesOrigin =
+    originFilter === 'All' ||
+    movie.origin === originFilter;
 
-    const matchesOrigin =
-        originFilter === 'All' ||
-        movie.origin === originFilter;
+const matchesType =
+    typeFilter === 'All' ||
+    movie.type === typeFilter;
 
-    const matchesType =
-        typeFilter === 'All' ||
-        movie.type === typeFilter;
+const matchesBrowse =
+    browseFilter === "All" ||
+    (browseFilter === "Hollywood" && movie.origin === "Hollywood") ||
+    (browseFilter === "Bollywood" && movie.origin === "Bollywood") ||
+    (browseFilter === "Series" && movie.type === "Series");
 
-    const matchesBrowse =
-        browseFilter === "All" ||
-        (browseFilter === "Hollywood" && movie.origin === "Hollywood") ||
-        (browseFilter === "Bollywood" && movie.origin === "Bollywood") ||
-        (browseFilter === "Series" && movie.type === "Series");
+const matchesGenre =
+    selectedGenre === "All" ||
+    (Array.isArray(movie.genre) &&
+     movie.genre.includes(selectedGenre));
 
-    return matchesSearch &&
-           matchesYear &&
-           matchesOrigin &&
-           matchesType &&
-           matchesBrowse;
-
-});
+return matchesSearch &&
+       matchesYear &&
+       matchesOrigin &&
+       matchesType &&
+       matchesBrowse &&
+       matchesGenre;
 
 
             // Sort
@@ -863,6 +876,54 @@ function setBrowse(type, element){
     browseFilter = type;
 
     document.querySelectorAll(".sidebar .side-item").forEach(item=>{
+        item.classList.remove("active");
+    });
+
+    element.classList.add("active");
+
+    renderMovies();
+
+}
+
+// ======== YE NEECHHE PASTE KARO ========
+
+let selectedGenre = "All";
+
+function renderGenres(){
+
+    const genreList = document.getElementById("genreList");
+
+    const genres = [...new Set(
+        movies.flatMap(m => Array.isArray(m.genre) ? m.genre : [])
+    )].sort();
+
+    genreList.innerHTML = "";
+
+    genreList.innerHTML += `
+        <div class="side-item active"
+             onclick="setGenre('All',this)">
+             🎭 All Genres
+        </div>
+    `;
+
+    genres.forEach(g=>{
+
+        genreList.innerHTML += `
+            <div class="side-item"
+                 onclick="setGenre('${g}',this)">
+                ${g}
+            </div>
+        `;
+
+    });
+
+}
+
+function setGenre(genre, element){
+
+    selectedGenre = genre;
+
+    document.querySelectorAll("#genreList .side-item").forEach(item=>{
         item.classList.remove("active");
     });
 
