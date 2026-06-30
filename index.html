@@ -322,6 +322,14 @@ font-size:36px;
 font-weight:800;
 
 }
+#resultsInfo{
+    max-width:1450px;
+    margin:0 auto 18px;
+    padding:0 20px;
+    font-size:15px;
+    color:#666;
+    font-weight:600;
+}
 
 .stat-title{
 
@@ -475,6 +483,9 @@ line-height:1.4;
 
 </div>
 
+</div>
+<div id="resultsInfo">
+    Showing 0 Movies
 </div>
 
 <div id="mainLayout">
@@ -642,6 +653,8 @@ line-height:1.4;
 
             // Sort
             const sortedMovies = getSortedMovies(filteredMovies);
+document.getElementById("resultsInfo").textContent =
+    `Showing ${sortedMovies.length} Movie${sortedMovies.length !== 1 ? "s" : ""}`;
 
             // Generate HTML
             grid.innerHTML = '';
