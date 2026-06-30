@@ -690,6 +690,7 @@ const matchesBrowse =
     (browseFilter === "Series" && movie.type === "Series");
 
 const matchesGenre =
+    !selectedGenre ||
     selectedGenre === "All" ||
     (Array.isArray(movie.genre) &&
      movie.genre.includes(selectedGenre));
@@ -900,13 +901,11 @@ function renderGenres(){
 
     genreList.innerHTML = "";
 
-    genreList.innerHTML += `
-        <div class="side-item active"
-             onclick="setGenre('All',this)">
-             🎭 All Genres
-        </div>
-    `;
-
+   genreList.innerHTML = `
+<div class="side-item active"
+     onclick="setGenre('All', this)">
+     🎭 All Genres
+</div>`;
     genres.forEach(g=>{
 
         genreList.innerHTML += `
@@ -922,13 +921,15 @@ function renderGenres(){
 
 function setGenre(genre, element){
 
-    selectedGenre = genre;
+    selectedGenre = genre || "All";
 
     document.querySelectorAll("#genreList .side-item").forEach(item=>{
         item.classList.remove("active");
     });
 
-    element.classList.add("active");
+    if(element){
+        element.classList.add("active");
+    }
 
     renderMovies();
 
