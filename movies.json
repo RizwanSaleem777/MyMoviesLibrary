@@ -3490,256 +3490,255 @@
   "genre": ["Sci-Fi"]
 },
   {
-    "id": 351,
-    "title": "Special Forces",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/special-forces-2011.jpg",
-    "genre": ["Action","Adventure","Drama","War"]
-  },
-  {
-    "id": 352,
-    "title": "Super",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/super-2011.jpg",
-    "genre": ["Action","Comedy","Crime","Drama","Horror","Thriller"]
-  },
-  {
-    "id": 353,
-    "title": "The Adventures Of Tintin",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-adventures-of-tintin-2011.jpg",
-    "genre": ["Animation","Action","Adventure","Family","Mystery"]
-  },
-  {
-    "id": 354,
-    "title": "The Girl With The Dragon Tattoo",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-girl-with-the-dragon-tattoo-2011.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 355,
-    "title": "The Grey",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-grey-2011.jpg",
-    "genre": ["Action","Adventure","Drama","Thriller"]
-  },
-
-  {
-    "id": 356,
-    "title": "The Hunters",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-hunters-2011.jpg",
-    "genre": ["Action","Crime","Horror","Thriller"]
-  },
-  {
-    "id": 357,
-    "title": "Thor 1",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/thor-1-2011.jpg",
-    "genre": ["Action","Adventure","Fantasy"]
-  },
-  {
-    "id": 358,
-    "title": "Unknown",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/unknown-2011.jpg",
-    "genre": ["Action","Mystery","Thriller"]
-  },
-  {
-    "id": 359,
-    "title": "X Men 5 First Class",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/x-men-5-first-class-2011.jpg",
-    "genre": ["Action","Adventure","Sci-Fi"]
-  },
-  {
-    "id": 360,
-    "title": "Harry Potter and the Deathly Hallows Part 2",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/harry-potter-and-the-deathly-hallows-part-2-2011.jpg",
-    "genre": ["Action","Adventure","Family","Fantasy"]
-  },
-  {
-    "id": 361,
-    "title": "I Am Number Four",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/i-am-number-four-2011.jpg",
-    "genre": ["Action","Adventure","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 362,
-    "title": "Bodyguard",
-    "year": 2011,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bodyguard-2011.jpg",
-    "genre": ["Action","Comedy","Drama","Romance"]
-  },
-  {
-    "id": 363,
-    "title": "Hanna",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/hanna-2011.jpg",
-    "genre": ["Action","Adventure","Thriller"]
-  },
-  {
-    "id": 364,
-    "title": "Don 2",
-    "year": 2011,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/don-2-2011.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 365,
-    "title": "Ticking Clock",
-    "year": 2011,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ticking-clock-2011.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 366,
-    "title": "No One Killed Jessica",
-    "year": 2011,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/no-one-killed-jessica-2011.jpg",
-    "genre": ["Biography","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 367,
-    "title": "Piyar Ka Punchnama 1",
-    "year": 2011,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/piyar-ka-punchnama-1-2011.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 368,
-    "title": "Ra One",
-    "year": 2011,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ra-one-2011.jpg",
-    "genre": ["Action","Adventure","Sci-Fi"]
-  },
-  {
-    "id": 369,
-    "title": "Singham",
-    "year": 2011,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/singham-2011.jpg",
-    "genre": ["Action","Crime","Drama"]
-  },
-  {
-    "id": 370,
-    "title": "Bullet To The Head",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bullet-to-the-head-2012.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 371,
-    "title": "Contraband",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/contraband-2012.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 372,
-    "title": "Dead Mine",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/dead-mine-2012.jpg",
-    "genre": ["Action","Adventure","Horror","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 373,
-    "title": "Dredd",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/dredd-2012.jpg",
-    "genre": ["Action","Crime","Mystery","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 374,
-    "title": "Fire With Fire",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/fire-with-fire-2012.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 375,
-    "title": "Get The Gringo",
-    "year": 2012,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/get-the-gringo-2012.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
+  "id": 351,
+  "title": "Special Forces",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/special-forces-2011.jpg",
+  "genre": ["War"]
+},
+{
+  "id": 352,
+  "title": "Super",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/super-2011.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 353,
+  "title": "The Adventures Of Tintin",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-adventures-of-tintin-2011.jpg",
+  "genre": ["Animation"]
+},
+{
+  "id": 354,
+  "title": "The Girl With The Dragon Tattoo",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-girl-with-the-dragon-tattoo-2011.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 355,
+  "title": "The Grey",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-grey-2011.jpg",
+  "genre": ["Adventure"]
+},
+{
+  "id": 356,
+  "title": "The Hunters",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-hunters-2011.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 357,
+  "title": "Thor 1",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/thor-1-2011.jpg",
+  "genre": ["Fantasy"]
+},
+{
+  "id": 358,
+  "title": "Unknown",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/unknown-2011.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 359,
+  "title": "X Men 5 First Class",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/x-men-5-first-class-2011.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 360,
+  "title": "Harry Potter and the Deathly Hallows Part 2",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/harry-potter-and-the-deathly-hallows-part-2-2011.jpg",
+  "genre": ["Fantasy"]
+},
+{
+  "id": 361,
+  "title": "I Am Number Four",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/i-am-number-four-2011.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 362,
+  "title": "Bodyguard",
+  "year": 2011,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bodyguard-2011.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 363,
+  "title": "Hanna",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/hanna-2011.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 364,
+  "title": "Don 2",
+  "year": 2011,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/don-2-2011.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 365,
+  "title": "Ticking Clock",
+  "year": 2011,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ticking-clock-2011.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 366,
+  "title": "No One Killed Jessica",
+  "year": 2011,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/no-one-killed-jessica-2011.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 367,
+  "title": "Piyar Ka Punchnama 1",
+  "year": 2011,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/piyar-ka-punchnama-1-2011.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 368,
+  "title": "Ra One",
+  "year": 2011,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ra-one-2011.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 369,
+  "title": "Singham",
+  "year": 2011,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/singham-2011.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 370,
+  "title": "Bullet To The Head",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bullet-to-the-head-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 371,
+  "title": "Contraband",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/contraband-2012.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 372,
+  "title": "Dead Mine",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/dead-mine-2012.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 373,
+  "title": "Dredd",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/dredd-2012.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 374,
+  "title": "Fire With Fire",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/fire-with-fire-2012.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 375,
+  "title": "Get The Gringo",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/get-the-gringo-2012.jpg",
+  "genre": ["Crime"]
+},
   {
     "id": 376,
     "title": "Gone",
