@@ -476,6 +476,19 @@ min-width:280px;
                         <option value="Series">Series</option>
                     </select>
                 </div>
+<div class="form-group">
+    <label for="movieGenre">Genre</label>
+
+    <input
+        type="text"
+        id="movieGenre"
+        placeholder="Action, Adventure, Sci-Fi"
+    >
+
+    <small style="color:#777">
+        Multiple genres comma se likhen.
+    </small>
+</div>
                 <div class="form-group">
                     <label for="movieImdb">IMDb ID/Link (Optional)</label>
                     <input type="text" id="movieImdb">
@@ -656,6 +669,11 @@ document.getElementById("seriesCount").innerText = types["Series"] || 0;
             const year = parseInt(document.getElementById('movieYear').value);
             const origin = document.getElementById('movieOrigin').value;
             const type = document.getElementById('movieType').value;
+const genre = document.getElementById('movieGenre')
+    .value
+    .split(',')
+    .map(g => g.trim())
+    .filter(g => g);
             const imdb = document.getElementById('movieImdb').value;
             const poster = document.getElementById('moviePoster').value;
 
@@ -664,21 +682,31 @@ document.getElementById("seriesCount").innerText = types["Series"] || 0;
                 const id = parseInt(idStr);
                 const index = movies.findIndex(m => m.id === id);
                 if (index !== -1) {
-                    movies[index] = { ...movies[index], title, year, origin, type, imdb, poster };
+                    movies[index] = {
+    ...movies[index],
+    title,
+    year,
+    origin,
+    type,
+    genre,
+    imdb,
+    poster
+};
                     showToast("Movie updated successfully!");
                 }
             } else {
                 // ADD MODE
                 const maxId = movies.reduce((max, m) => Math.max(max, m.id), 0);
-                const newMovie = {
-                    id: maxId + 1,
-                    title,
-                    year,
-                    origin,
-                    type,
-                    imdb,
-                    poster
-                };
+               const newMovie = {
+    id: maxId + 1,
+    title,
+    year,
+    origin,
+    type,
+    genre,
+    imdb,
+    poster
+};
                 movies.push(newMovie);
                 populateYearFilter();
                 showToast("Movie added successfully!");
