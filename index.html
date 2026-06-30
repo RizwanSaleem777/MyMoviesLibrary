@@ -493,10 +493,13 @@ line-height:1.4;
 
 <h3>Browse</h3>
 
-<div class="side-item active">🎬 All Movies</div>
-<div class="side-item">🎥 Hollywood</div>
-<div class="side-item">🍿 Bollywood</div>
-<div class="side-item">📺 Series</div>
+<div class="side-item active" onclick="setBrowse('All',this)">🎬 All Movies</div>
+
+<div class="side-item" onclick="setBrowse('Hollywood',this)">🎥 Hollywood</div>
+
+<div class="side-item" onclick="setBrowse('Bollywood',this)">🍿 Bollywood</div>
+
+<div class="side-item" onclick="setBrowse('Series',this)">📺 Series</div>
 
 <hr>
 
@@ -633,6 +636,7 @@ line-height:1.4;
                 return a.title.localeCompare(b.title); 
             });
         }
+let browseFilter = "All";
 
         // Render Movies
         function renderMovies() {
@@ -641,6 +645,16 @@ line-height:1.4;
             const yearFilter = document.getElementById('yearFilter').value;
             const originFilter = document.getElementById('originFilter').value;
             const typeFilter = document.getElementById('typeFilter').value;
+let matchesBrowse = true;
+
+if (browseFilter === "Hollywood")
+    matchesBrowse = movie.origin === "Hollywood";
+
+else if (browseFilter === "Bollywood")
+    matchesBrowse = movie.origin === "Bollywood";
+
+else if (browseFilter === "Series")
+    matchesBrowse = movie.type === "Series";
 
             // Filter
             let filteredMovies = movies.filter(movie => {
@@ -648,8 +662,24 @@ line-height:1.4;
                 const matchesYear = yearFilter === 'All' || movie.year.toString() === yearFilter;
                 const matchesOrigin = originFilter === 'All' || movie.origin === originFilter;
                 const matchesType = typeFilter === 'All' || movie.type === typeFilter;
-                return matchesSearch && matchesYear && matchesOrigin && matchesType;
+                return matchesSearch &&
+       matchesYear &&
+       matchesOrigin &&
+       matchesType &&
+       matchesBrowse;
             });
+function setBrowse(type, element){
+
+    browseFilter = type;
+
+    document.querySelectorAll(".sidebar .side-item").forEach(item=>{
+        item.classList.remove("active");
+    });
+
+    element.classList.add("active");
+
+    renderMovies();
+}
 
             // Sort
             const sortedMovies = getSortedMovies(filteredMovies);
