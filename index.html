@@ -639,7 +639,7 @@ let browseFilter = "All";
                 return a.title.localeCompare(b.title); 
             });
         }
-let browseFilter = "All";
+
 
         // Render Movies
         function renderMovies() {
@@ -681,6 +681,12 @@ let browseFilter = "All";
            matchesBrowse;
 
 });
+
+
+            // Sort
+            const sortedMovies = getSortedMovies(filteredMovies);
+document.getElementById("resultsInfo").textContent =
+    `Showing ${sortedMovies.length} Movie${sortedMovies.length !== 1 ? "s" : ""}`;
 function setBrowse(type, element){
 
     browseFilter = type;
@@ -693,11 +699,6 @@ function setBrowse(type, element){
 
     renderMovies();
 }
-
-            // Sort
-            const sortedMovies = getSortedMovies(filteredMovies);
-document.getElementById("resultsInfo").textContent =
-    `Showing ${sortedMovies.length} Movie${sortedMovies.length !== 1 ? "s" : ""}`;
 
             // Generate HTML
             grid.innerHTML = '';
@@ -850,6 +851,20 @@ const genre = document.getElementById('movieGenre')
             toast.className = "show";
             setTimeout(function(){ toast.className = toast.className.replace("show", ""); }, 5000);
         }
+
+function setBrowse(type, element){
+
+    browseFilter = type;
+
+    document.querySelectorAll(".sidebar .side-item").forEach(item=>{
+        item.classList.remove("active");
+    });
+
+    element.classList.add("active");
+
+    renderMovies();
+
+}
     </script>
 </body>
 </html>
