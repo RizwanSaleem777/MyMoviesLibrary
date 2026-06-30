@@ -8229,477 +8229,476 @@
   "imdb": "",
   "poster": "posters/who-is-erin-carter-2023.jpg",
   "genre": ["Thriller"]
+},{
+  "id": 826,
+  "title": "Berlin Season-01",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/berlin-season-01-2023.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 827,
+  "title": "Hijack Season 01",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/hijack-season-01-2023.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 828,
+  "title": "Sixty Minutes",
+  "year": 2024,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/sixty-minutes-2024.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 829,
+  "title": "The Beekeeper",
+  "year": 2024,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-beekeeper-2024.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 830,
+  "title": "Carry ON",
+  "year": 2024,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/carry-on-2024.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 831,
+  "title": "Gladiator II",
+  "year": 2024,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/gladiator-ii-2024.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 832,
+  "title": "Road House",
+  "year": 2024,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/road-house-2024.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 833,
+  "title": "Land of Bad",
+  "year": 2024,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/land-of-bad-2024.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 834,
+  "title": "Dont Move",
+  "year": 2024,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/dont-move-2024.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 835,
+  "title": "Phir Aayi HasseenDillruba",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/phir-aayi-hasseendillruba-2024.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 836,
+  "title": "Rautu ka Raaz",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/rautu-ka-raaz-2024.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 837,
+  "title": "Shaitaan",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/shaitaan-2024.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 838,
+  "title": "Bagheera The Saviour",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bagheera-the-saviour-2024.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 839,
+  "title": "Golam",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/golam-2024.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 840,
+  "title": "Anweshippin Kandethum",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/anweshippin-kandethum-2024.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 841,
+  "title": "Lucky Baskhar",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/lucky-baskhar-2024.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 842,
+  "title": "Sookshma Darshini",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/sookshma-darshini-2024.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 843,
+  "title": "Murder In Mahim S01",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/murder-in-mahim-s01-2024.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 844,
+  "title": "Shekhar Home S01",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/shekhar-home-s01-2024.jpg",
+  "genre": ["Mystery"]
+},
+{
+  "id": 845,
+  "title": "Squid Game Season-02",
+  "year": 2024,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/squid-game-season-02-2024.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 846,
+  "title": "Cubicles Season-04",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/cubicles-season-04.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 847,
+  "title": "Warning 2",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/warning-2-2024.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 848,
+  "title": "Level Cross",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/level-cross-2024.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 849,
+  "title": "Sunflower Season-02",
+  "year": 2024,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/sunflower-season-02-2024.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 850,
+  "title": "Nobody 2",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/nobody2.jpg",
+  "genre": ["Action"]
 },
   {
-    "id": 826,
-    "title": "Berlin Season-01",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/berlin-season-01-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 827,
-    "title": "Hijack Season 01",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/hijack-season-01-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 828,
-    "title": "Sixty Minutes",
-    "year": 2024,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/sixty-minutes-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 829,
-    "title": "The Beekeeper",
-    "year": 2024,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-beekeeper-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 830,
-    "title": "Carry ON",
-    "year": 2024,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/carry-on-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 831,
-    "title": "Gladiator II",
-    "year": 2024,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/gladiator-ii-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 832,
-    "title": "Road House",
-    "year": 2024,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/road-house-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 833,
-    "title": "Land of Bad",
-    "year": 2024,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/land-of-bad-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 834,
-    "title": "Dont Move",
-    "year": 2024,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/dont-move-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 835,
-    "title": "Phir Aayi HasseenDillruba",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/phir-aayi-hasseendillruba-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 836,
-    "title": "Rautu ka Raaz",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/rautu-ka-raaz-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 837,
-    "title": "Shaitaan",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/shaitaan-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 838,
-    "title": "Bagheera The Saviour",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bagheera-the-saviour-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 839,
-    "title": "Golam",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/golam-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 840,
-    "title": "Anweshippin Kandethum",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/anweshippin-kandethum-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 841,
-    "title": "Lucky Baskhar",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/lucky-baskhar-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 842,
-    "title": "Sookshma Darshini",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/sookshma-darshini-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 843,
-    "title": "Murder In Mahim S01",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/murder-in-mahim-s01-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 844,
-    "title": "Shekhar Home S01",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/shekhar-home-s01-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 845,
-    "title": "Squid Game Season-02",
-    "year": 2024,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/squid-game-season-02-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 846,
-    "title": "Cubicles Season-04",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/cubicles-season-04.jpg",
-    "genre": ["Comedy","Drama"]
-  },
-  {
-    "id": 847,
-    "title": "Warning 2",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/warning-2-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 848,
-    "title": "Level Cross",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/level-cross-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 849,
-    "title": "Sunflower Season-02",
-    "year": 2024,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/sunflower-season-02-2024.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 850,
-    "title": "Nobody 2",
-    "year": 2025,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/nobody2.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 851,
-    "title": "The Old Gaurd 2",
-    "year": 2025,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/theoldgaurd2.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 852,
-    "title": "Blind Spot",
-    "year": 2025,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/BlindSpot.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 853,
-    "title": "Stolen",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/stolen-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 854,
-    "title": "Eleven",
-    "year": 2025,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/Eleven.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 855,
-    "title": "Jolly LLB 3",
-    "year": 2025,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/jollyllb3.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 856,
-    "title": "Eko",
-    "year": 2025,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/EKO.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 857,
-    "title": "Pushpa 2",
-    "year": 2025,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/pushpa2.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 858,
-    "title": "Murderer Report",
-    "year": 2025,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/murderreport.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 859,
-    "title": "Squid Game Season-03",
-    "year": 2025,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/Squidgames3.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 860,
-    "title": "Diablo",
-    "year": 2025,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/Diablo.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 861,
-    "title": "HIT The Third Case",
-    "year": 2025,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/Hitthe3rdcase.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 862,
-    "title": "Trap House",
-    "year": 2025,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/TrapHouse.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 863,
-    "title": "F1",
-    "year": 2025,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/F1.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 864,
-    "title": "Mercy",
-    "year": 2026,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mercy.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 865,
-    "title": "Apex",
-    "year": 2026,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/Apex.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 866,
-    "title": "GOD father",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/god-father-2020.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 867,
-    "title": "Raid 2",
-    "year": 2025,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/Raid-2.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 868,
-    "title": "Jungle 2017",
-    "year": 2025,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/Jungle-2017.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 869,
-    "title": "It Chapter Two",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/It2.jpg",
-    "genre": ["Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 870,
-    "title": "Bullet Train",
-    "year": 2022,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/Bullettrain2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 871,
-    "title": "Predator Badlands",
-    "year": 2025,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/predatorBadland.jpg",
-    "genre": ["Action","Adventure","Horror","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 872,
-    "title": "M4M-Motive for Murder",
-    "year": 2026,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/M4MMotive for Murder.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  }
+  "id": 851,
+  "title": "The Old Gaurd 2",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/theoldgaurd2.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 852,
+  "title": "Blind Spot",
+  "year": 2025,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/BlindSpot.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 853,
+  "title": "Stolen",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/stolen-2023.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 854,
+  "title": "Eleven",
+  "year": 2025,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Eleven.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 855,
+  "title": "Jolly LLB 3",
+  "year": 2025,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/jollyllb3.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 856,
+  "title": "Eko",
+  "year": 2025,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/EKO.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 857,
+  "title": "Pushpa 2",
+  "year": 2025,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/pushpa2.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 858,
+  "title": "Murderer Report",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/murderreport.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 859,
+  "title": "Squid Game Season-03",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/Squidgames3.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 860,
+  "title": "Diablo",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Diablo.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 861,
+  "title": "HIT The Third Case",
+  "year": 2025,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Hitthe3rdcase.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 862,
+  "title": "Trap House",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/TrapHouse.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 863,
+  "title": "F1",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/F1.jpg",
+  "genre": ["Sport"]
+},
+{
+  "id": 864,
+  "title": "Mercy",
+  "year": 2026,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mercy.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 865,
+  "title": "Apex",
+  "year": 2026,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Apex.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 866,
+  "title": "GOD father",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/god-father-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 867,
+  "title": "Raid 2",
+  "year": 2025,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Raid-2.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 868,
+  "title": "Jungle 2017",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Jungle-2017.jpg",
+  "genre": ["Adventure"]
+},
+{
+  "id": 869,
+  "title": "It Chapter Two",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/It2.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 870,
+  "title": "Bullet Train",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Bullettrain2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 871,
+  "title": "Predator Badlands",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/predatorBadland.jpg",
+  "genre": ["Sci-Fi"]
+},
+{
+  "id": 872,
+  "title": "M4M-Motive for Murder",
+  "year": 2026,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/M4MMotive for Murder.jpg",
+  "genre": ["Crime"]
+}
 
 
 ]
