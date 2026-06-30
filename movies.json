@@ -6480,255 +6480,255 @@
     "genre": ["Action","Crime","Thriller"]
   },
   {
-    "id": 651,
-    "title": "Avengers Endgame",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/avengers-endgame-2019.jpg",
-    "genre": ["Action","Adventure","Drama","Sci-Fi"]
-  },
-  {
-    "id": 652,
-    "title": "Men In Black International",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/men-in-black-international-2019.jpg",
-    "genre": ["Action","Adventure","Comedy","Sci-Fi"]
-  },
-  {
-    "id": 653,
-    "title": "X Men 10 Dark Phoenix",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/x-men-10-dark-phoenix-2019.jpg",
-    "genre": ["Action","Adventure","Sci-Fi"]
-  },
-  {
-    "id": 654,
-    "title": "The Lion King",
-    "year": 2019,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-lion-king-2019.jpg",
-    "genre": ["Action","Adventure","Animation","Drama","Family"]
-  },
-  {
-    "id": 655,
-    "title": "Bala",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bala-2019.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 656,
-    "title": "Chal Mera Putt",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/chal-mera-putt-2019.jpg",
-    "genre": ["Comedy","Drama"]
-  },
-  {
-    "id": 657,
-    "title": "chhichhore",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/chichoray-2019.jpg",
-    "genre": ["Comedy","Drama","Sport"]
-  },
-  {
-    "id": 658,
-    "title": "Dream Girl",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/dream-girl-2019.jpg",
-    "genre": ["Comedy","Romance"]
-  },
-  {
-    "id": 659,
-    "title": "Game Over",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/game-over-2019.jpg",
-    "genre": ["Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 660,
-    "title": "Good Newz",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/good-newz-2019.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 661,
-    "title": "Laal Kabootar",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/laal-kabootar-2019.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 662,
-    "title": "Luka Chuppi",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/luka-chuppi-2019.jpg",
-    "genre": ["Comedy","Romance"]
-  },
-  {
-    "id": 663,
-    "title": "Mardaani 2",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mardaani-2-2019.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 664,
-    "title": "Surkhi Bindi",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/surkhi-bindi-2019.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 665,
-    "title": "Thadam",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/thadam-2019.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 666,
-    "title": "The Body",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-body-2019.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 667,
-    "title": "Ujda Chaman",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ujda-chaman-2019.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 668,
-    "title": "War",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/war-2019.jpg",
-    "genre": ["Action","Adventure","Crime","Thriller"]
-  },
-  {
-    "id": 669,
-    "title": "Yeh Saali Aashiqui",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/yeh-saali-aashiqui-2019.jpg",
-    "genre": ["Drama","Mystery","Romance","Thriller"]
-  },
-  {
-    "id": 670,
-    "title": "The Return Of Abhimanyu",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-return-of-abhimanyu-2019.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 671,
-    "title": "Abhay Season-01",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/abhay-season-01-2019.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 672,
-    "title": "Criminal Justice Season-01",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/criminal-justice-season-01-2019.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 673,
-    "title": "Cubicles Season-01",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/cubicles-season-01-2019.jpg",
-    "genre": ["Comedy","Drama"]
-  },
-  {
-    "id": 674,
-    "title": "Hostages Season-01",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/hostages-season-01-2019.jpg",
-    "genre": ["Crime","Drama","Thriller"]
-  },
-  {
-    "id": 675,
-    "title": "Kota Factory Season-01",
-    "year": 2019,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/kota-factory-season-01-2019.jpg",
-    "genre": ["Comedy","Drama"]
-  },
+  "id": 651,
+  "title": "Avengers Endgame",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/avengers-endgame-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 652,
+  "title": "Men In Black International",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/men-in-black-international-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 653,
+  "title": "X Men 10 Dark Phoenix",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/x-men-10-dark-phoenix-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 654,
+  "title": "The Lion King",
+  "year": 2019,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-lion-king-2019.jpg",
+  "genre": ["Animation"]
+},
+{
+  "id": 655,
+  "title": "Bala",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bala-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 656,
+  "title": "Chal Mera Putt",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/chal-mera-putt-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 657,
+  "title": "chhichhore",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/chichoray-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 658,
+  "title": "Dream Girl",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/dream-girl-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 659,
+  "title": "Game Over",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/game-over-2019.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 660,
+  "title": "Good Newz",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/good-newz-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 661,
+  "title": "Laal Kabootar",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/laal-kabootar-2019.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 662,
+  "title": "Luka Chuppi",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/luka-chuppi-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 663,
+  "title": "Mardaani 2",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mardaani-2-2019.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 664,
+  "title": "Surkhi Bindi",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/surkhi-bindi-2019.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 665,
+  "title": "Thadam",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/thadam-2019.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 666,
+  "title": "The Body",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-body-2019.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 667,
+  "title": "Ujda Chaman",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ujda-chaman-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 668,
+  "title": "War",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/war-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 669,
+  "title": "Yeh Saali Aashiqui",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/yeh-saali-aashiqui-2019.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 670,
+  "title": "The Return Of Abhimanyu",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-return-of-abhimanyu-2019.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 671,
+  "title": "Abhay Season-01",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/abhay-season-01-2019.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 672,
+  "title": "Criminal Justice Season-01",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/criminal-justice-season-01-2019.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 673,
+  "title": "Cubicles Season-01",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/cubicles-season-01-2019.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 674,
+  "title": "Hostages Season-01",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/hostages-season-01-2019.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 675,
+  "title": "Kota Factory Season-01",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/kota-factory-season-01-2019.jpg",
+  "genre": ["Drama"]
+},
   {
     "id": 676,
     "title": "Tripling Season-01",
