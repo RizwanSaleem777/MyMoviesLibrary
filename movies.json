@@ -5730,505 +5730,505 @@
   "genre": ["Action","Drama","Sci-Fi","Thriller"]
 },
   {
-    "id": 576,
-    "title": "Wonder Woman",
-    "year": 2017,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/wonder-woman-2017.jpg",
-    "genre": ["Action","Adventure","Fantasy","Sci-Fi","War"]
-  },
+  "id": 576,
+  "title": "Wonder Woman",
+  "year": 2017,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/wonder-woman-2017.jpg",
+  "genre": ["Action","Adventure","Fantasy","Sci-Fi","War"]
+},
+{
+  "id": 577,
+  "title": "Baahubali 2",
+  "year": 2017,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/baahubali-2-2017.jpg",
+  "genre": ["Action","Adventure","Drama","War"]
+},
+{
+  "id": 578,
+  "title": "Bareilly Ki Barfi",
+  "year": 2017,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bareilly-ki-barfi-2017.jpg",
+  "genre": ["Comedy","Drama","Romance"]
+},
+{
+  "id": 579,
+  "title": "Lahoriye",
+  "year": 2017,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/lahoriye-2017.jpg",
+  "genre": ["Drama","Romance"]
+},
+{
+  "id": 580,
+  "title": "Mirror Game",
+  "year": 2017,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mirror-game-2017.jpg",
+  "genre": ["Crime","Mystery","Thriller"]
+},
+{
+  "id": 581,
+  "title": "Mom",
+  "year": 2017,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mom-2017.jpg",
+  "genre": ["Crime","Drama","Thriller"]
+},
+{
+  "id": 582,
+  "title": "Na Maloom Afraad 2",
+  "year": 2017,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/na-maloom-afraad-2-2017.jpg",
+  "genre": ["Comedy","Crime"]
+},
+{
+  "id": 583,
+  "title": "Nikka Zaildar 2",
+  "year": 2017,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/nikka-zaildar-2-2017.jpg",
+  "genre": ["Comedy","Drama","Romance"]
+},
+{
+  "id": 584,
+  "title": "Qarib Qarib Singlle",
+  "year": 2017,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/qarib-qarib-singlle-2017.jpg",
+  "genre": ["Comedy","Drama","Romance"]
+},
+{
+  "id": 585,
+  "title": "Shaadi Mein Zaroor Aana",
+  "year": 2017,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/shaadi-mein-zaroor-aana-2017.jpg",
+  "genre": ["Drama","Romance"]
+},
+{
+  "id": 586,
+  "title": "Theeran Adhigaaram Ondru",
+  "year": 2017,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/theeran-adhigaaram-ondru-2017.jpg",
+  "genre": ["Action","Crime","Thriller"]
+},
+{
+  "id": 587,
+  "title": "Money Heist Season-01",
+  "year": 2017,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/money-heist-season-01-2017.jpg",
+  "genre": ["Action","Crime","Drama","Mystery","Thriller"]
+},
+{
+  "id": 588,
+  "title": "A Quiet Place",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/a-quiet-place-2018.jpg",
+  "genre": ["Drama","Horror","Sci-Fi","Thriller"]
+},
+{
+  "id": 589,
+  "title": "Alpha",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/alpha-2018.jpg",
+  "genre": ["Adventure","Drama","History"]
+},
+{
+  "id": 590,
+  "title": "Black Panther",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/black-panther-2018.jpg",
+  "genre": ["Action","Adventure","Sci-Fi"]
+},
+{
+  "id": 591,
+  "title": "Braven",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/braven-2018.jpg",
+  "genre": ["Action","Crime","Drama","Thriller"]
+},
+{
+  "id": 592,
+  "title": "Breaking In",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/breaking-in-2018.jpg",
+  "genre": ["Action","Crime","Thriller"]
+},
+{
+  "id": 593,
+  "title": "Deadpool 2",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/deadpool-2-2018.jpg",
+  "genre": ["Action","Adventure","Comedy","Sci-Fi"]
+},
+{
+  "id": 594,
+  "title": "Golden Slumber",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/golden-slumber-2018.jpg",
+  "genre": ["Action","Crime","Thriller"]
+},
+{
+  "id": 595,
+  "title": "Mission Impossible Fallout",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mission-impossible-fallout-2018.jpg",
+  "genre": ["Action","Adventure","Thriller"]
+},
+{
+  "id": 596,
+  "title": "Mortal Engines",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mortal-engines-2018.jpg",
+  "genre": ["Action","Adventure","Sci-Fi"]
+},
+{
+  "id": 597,
+  "title": "Red Sparrow",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/red-sparrow-2018.jpg",
+  "genre": ["Drama","Mystery","Thriller"]
+},
+{
+  "id": 598,
+  "title": "Searching",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/searching-2018.jpg",
+  "genre": ["Drama","Mystery","Thriller"]
+},
+{
+  "id": 599,
+  "title": "T-34",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/t-34-2018.jpg",
+  "genre": ["Action","Drama","War"]
+},
+{
+  "id": 600,
+  "title": "The Commuter",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-commuter-2018.jpg",
+  "genre": ["Action","Crime","Drama","Mystery","Thriller"]
+},
   {
-    "id": 577,
-    "title": "Baahubali 2",
-    "year": 2017,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/baahubali-2-2017.jpg",
-    "genre": ["Action","Adventure","Drama","War"]
-  },
-  {
-    "id": 578,
-    "title": "Bareilly Ki Barfi",
-    "year": 2017,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bareilly-ki-barfi-2017.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 579,
-    "title": "Lahoriye",
-    "year": 2017,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/lahoriye-2017.jpg",
-    "genre": ["Drama","Romance"]
-  },
-  {
-    "id": 580,
-    "title": "Mirror Game",
-    "year": 2017,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mirror-game-2017.jpg",
-    "genre": ["Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 581,
-    "title": "Mom",
-    "year": 2017,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mom-2017.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 582,
-    "title": "Na Maloom Afraad 2",
-    "year": 2017,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/na-maloom-afraad-2-2017.jpg",
-    "genre": ["Action","Comedy","Crime","Thriller"]
-  },
-  {
-    "id": 583,
-    "title": "Nikka Zaildar 2",
-    "year": 2017,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/nikka-zaildar-2-2017.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 584,
-    "title": "Qarib Qarib Singlle",
-    "year": 2017,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/qarib-qarib-singlle-2017.jpg",
-    "genre": ["Adventure","Comedy","Drama","Romance"]
-  },
-  {
-    "id": 585,
-    "title": "Shaadi Mein Zaroor Aana",
-    "year": 2017,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/shaadi-mein-zaroor-aana-2017.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 586,
-    "title": "Theeran Adhigaaram Ondru",
-    "year": 2017,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/theeran-adhigaaram-ondru-2017.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 587,
-    "title": "Money Heist Season-01",
-    "year": 2017,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/money-heist-season-01-2017.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 588,
-    "title": "A Quiet Place",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/a-quiet-place-2018.jpg",
-    "genre": ["Drama","Horror","Mystery","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 589,
-    "title": "Alpha",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/alpha-2018.jpg",
-    "genre": ["Action","Adventure","Drama","History"]
-  },
-  {
-    "id": 590,
-    "title": "Black Panther",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/black-panther-2018.jpg",
-    "genre": ["Action","Adventure","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 591,
-    "title": "Braven",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/braven-2018.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 592,
-    "title": "Breaking In",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/breaking-in-2018.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 593,
-    "title": "Deadpool 2",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/deadpool-2-2018.jpg",
-    "genre": ["Action","Adventure","Comedy","Sci-Fi"]
-  },
-  {
-    "id": 594,
-    "title": "Golden Slumber",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/golden-slumber-2018.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 595,
-    "title": "Mission Impossible Fallout",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mission-impossible-fallout-2018.jpg",
-    "genre": ["Action","Adventure","Thriller"]
-  },
-  {
-    "id": 596,
-    "title": "Mortal Engines",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mortal-engines-2018.jpg",
-    "genre": ["Action","Adventure","Sci-Fi"]
-  },
-  {
-    "id": 597,
-    "title": "Red Sparrow",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/red-sparrow-2018.jpg",
-    "genre": ["Action","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 598,
-    "title": "Searching",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/searching-2018.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 599,
-    "title": "T 34",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/t-34-2018.jpg",
-    "genre": ["Action","Adventure","Drama","War"]
-  },
-  {
-    "id": 600,
-    "title": "The Commuter",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-commuter-2018.jpg",
-    "genre": ["Action","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 601,
-    "title": "The Equalizer 2",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-equalizer-2-2018.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 602,
-    "title": "The Girl In The Spider Web",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-girl-in-the-spider-web-2018.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 603,
-    "title": "The Hurricane Heist",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-hurricane-heist-2018.jpg",
-    "genre": ["Action","Crime","Thriller"]
-  },
-  {
-    "id": 604,
-    "title": "The Meg",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-meg-2018.jpg",
-    "genre": ["Action","Horror","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 605,
-    "title": "The Predator",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-predator-2018.jpg",
-    "genre": ["Action","Adventure","Horror","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 606,
-    "title": "Tomb Raider",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/tomb-raider-2018.jpg",
-    "genre": ["Action","Adventure","Fantasy","Thriller"]
-  },
-  {
-    "id": 607,
-    "title": "Unsane",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/unsane-2018.jpg",
-    "genre": ["Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 608,
-    "title": "Upgrade",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/upgrade-2018.jpg",
-    "genre": ["Action","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 609,
-    "title": "Venom",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/venom-2018.jpg",
-    "genre": ["Action","Adventure","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 610,
-    "title": "White Fang",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/white-fang-2018.jpg",
-    "genre": ["Animation","Adventure","Drama","Family"]
-  },
-  {
-    "id": 611,
-    "title": "Widows",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/widows-2018.jpg",
-    "genre": ["Crime","Drama","Thriller"]
-  },
-  {
-    "id": 612,
-    "title": "Avengers Infinity War",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/avengers-infinity-war-2018.jpg",
-    "genre": ["Action","Adventure","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 613,
-    "title": "Ant Man",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ant-man-2018.jpg",
-    "genre": ["Action","Adventure","Comedy","Sci-Fi"]
-  },
-  {
-    "id": 614,
-    "title": "Maze Runner- The Death Cure",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/maze-runner-the-death-cure-2018.jpg",
-    "genre": ["Action","Adventure","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 615,
-    "title": "Door Lock",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/door-lock-2018.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 616,
-    "title": "Andhadhun",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/andhadhun-2018.jpg",
-    "genre": ["Comedy","Crime","Mystery","Music","Thriller"]
-  },
-  {
-    "id": 617,
-    "title": "Badhaai Ho",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/badhaai-ho-2018.jpg",
-    "genre": ["Comedy","Drama","Family","Romance"]
-  },
-  {
-    "id": 618,
-    "title": "Blackmail",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/blackmail-2018.jpg",
-    "genre": ["Comedy","Crime","Drama"]
-  },
-  {
-    "id": 619,
-    "title": "Carry On Jatta 2",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/carry-on-jatta-2-2018.jpg",
-    "genre": ["Comedy","Family","Romance"]
-  },
-  {
-    "id": 620,
-    "title": "Missing",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/missing-2018.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 621,
-    "title": "Qismat",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/qismat-2018.jpg",
-    "genre": ["Drama","Romance"]
-  },
-  {
-    "id": 622,
-    "title": "Raid",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/raid-2018.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 623,
-    "title": "Sanju",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/sanju-2018.jpg",
-    "genre": ["Biography","Comedy","Drama"]
-  },
-  {
-    "id": 624,
-    "title": "Sonu Ke Titu Ki Sweety",
-    "year": 2018,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/sonu-ke-titu-ki-sweety-2018.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 625,
-    "title": "Mowgli Legend Of The Jungle",
-    "year": 2018,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mowgli-legend-of-the-jungle-2018.jpg",
-    "genre": ["Action","Adventure","Drama","Fantasy"]
-  },
+  "id": 601,
+  "title": "The Equalizer 2",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-equalizer-2-2018.jpg",
+  "genre": ["Action","Crime","Thriller"]
+},
+{
+  "id": 602,
+  "title": "The Girl In The Spider's Web",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-girl-in-the-spider-web-2018.jpg",
+  "genre": ["Action","Crime","Drama","Thriller"]
+},
+{
+  "id": 603,
+  "title": "The Hurricane Heist",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-hurricane-heist-2018.jpg",
+  "genre": ["Action","Crime","Thriller"]
+},
+{
+  "id": 604,
+  "title": "The Meg",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-meg-2018.jpg",
+  "genre": ["Action","Horror","Sci-Fi","Thriller"]
+},
+{
+  "id": 605,
+  "title": "The Predator",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-predator-2018.jpg",
+  "genre": ["Action","Adventure","Horror","Sci-Fi"]
+},
+{
+  "id": 606,
+  "title": "Tomb Raider",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/tomb-raider-2018.jpg",
+  "genre": ["Action","Adventure","Fantasy"]
+},
+{
+  "id": 607,
+  "title": "Unsane",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/unsane-2018.jpg",
+  "genre": ["Drama","Horror","Mystery","Thriller"]
+},
+{
+  "id": 608,
+  "title": "Upgrade",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/upgrade-2018.jpg",
+  "genre": ["Action","Sci-Fi","Thriller"]
+},
+{
+  "id": 609,
+  "title": "Venom",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/venom-2018.jpg",
+  "genre": ["Action","Adventure","Sci-Fi","Thriller"]
+},
+{
+  "id": 610,
+  "title": "White Fang",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/white-fang-2018.jpg",
+  "genre": ["Animation","Adventure","Drama","Family"]
+},
+{
+  "id": 611,
+  "title": "Widows",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/widows-2018.jpg",
+  "genre": ["Crime","Drama","Thriller"]
+},
+{
+  "id": 612,
+  "title": "Avengers Infinity War",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/avengers-infinity-war-2018.jpg",
+  "genre": ["Action","Adventure","Sci-Fi"]
+},
+{
+  "id": 613,
+  "title": "Ant Man and the Wasp",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ant-man-2018.jpg",
+  "genre": ["Action","Adventure","Comedy","Sci-Fi"]
+},
+{
+  "id": 614,
+  "title": "Maze Runner The Death Cure",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/maze-runner-the-death-cure-2018.jpg",
+  "genre": ["Action","Adventure","Sci-Fi","Thriller"]
+},
+{
+  "id": 615,
+  "title": "Door Lock",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/door-lock-2018.jpg",
+  "genre": ["Crime","Drama","Mystery","Thriller"]
+},
+{
+  "id": 616,
+  "title": "Andhadhun",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/andhadhun-2018.jpg",
+  "genre": ["Comedy","Crime","Music","Mystery","Thriller"]
+},
+{
+  "id": 617,
+  "title": "Badhaai Ho",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/badhaai-ho-2018.jpg",
+  "genre": ["Comedy","Drama","Family"]
+},
+{
+  "id": 618,
+  "title": "Blackmail",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/blackmail-2018.jpg",
+  "genre": ["Comedy","Crime","Drama","Thriller"]
+},
+{
+  "id": 619,
+  "title": "Carry On Jatta 2",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/carry-on-jatta-2-2018.jpg",
+  "genre": ["Comedy","Romance"]
+},
+{
+  "id": 620,
+  "title": "Missing",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/missing-2018.jpg",
+  "genre": ["Crime","Drama","Mystery","Thriller"]
+},
+{
+  "id": 621,
+  "title": "Qismat",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/qismat-2018.jpg",
+  "genre": ["Drama","Romance"]
+},
+{
+  "id": 622,
+  "title": "Raid",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/raid-2018.jpg",
+  "genre": ["Crime","Drama","Thriller"]
+},
+{
+  "id": 623,
+  "title": "Sanju",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/sanju-2018.jpg",
+  "genre": ["Biography","Comedy","Drama"]
+},
+{
+  "id": 624,
+  "title": "Sonu Ke Titu Ki Sweety",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/sonu-ke-titu-ki-sweety-2018.jpg",
+  "genre": ["Comedy","Drama","Romance"]
+},
+{
+  "id": 625,
+  "title": "Mowgli Legend Of The Jungle",
+  "year": 2018,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mowgli-legend-of-the-jungle-2018.jpg",
+  "genre": ["Adventure","Drama","Fantasy"]
+},
   {
     "id": 626,
     "title": "Thugs of Hindustan",
