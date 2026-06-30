@@ -6981,255 +6981,255 @@
 },
 
   {
-    "id": 701,
-    "title": "Malang",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/malang-2020.jpg",
-    "genre": ["Action","Romance","Thriller"]
-  },
-  {
-    "id": 702,
-    "title": "Ratsasan",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/ratsasan-2020.jpg",
-    "genre": ["Crime","Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 703,
-    "title": "Sufna",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/sufna-2020.jpg",
-    "genre": ["Drama","Romance"]
-  },
-  {
-    "id": 704,
-    "title": "4 Thieves",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/4-thieves-2020.jpg",
-    "genre": ["Comedy","Crime","Drama"]
-  },
-  {
-    "id": 705,
-    "title": "Abhay Season-02",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/abhay-season-02-2020.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 706,
-    "title": "Afsos Season-01",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/afsos-season-01-2020.jpg",
-    "genre": ["Comedy","Drama"]
-  },
-  {
-    "id": 707,
-    "title": "Asur Season-01",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/asur-season-01-2020.jpg",
-    "genre": ["Crime","Drama","Fantasy","Mystery","Thriller"]
-  },
-  {
-    "id": 708,
-    "title": "Bicchoo Ka Khel",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/bicchoo-ka-khel-2020.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 709,
-    "title": "Criminal Justice Season-02",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/criminal-justice-season-02-2020.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 710,
-    "title": "High Season-01",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/high-season-01-2020.jpg",
-    "genre": ["Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 711,
-    "title": "Mirzapur Season-02",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/mirzapur-season-02-2020.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 712,
-    "title": "Never Kiss Your Best Friend Season-01",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/never-kiss-your-best-friend-season-01-2020.jpg",
-    "genre": ["Drama","Romance"]
-  },
-  {
-    "id": 713,
-    "title": "The Gone Game Season-01",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/the-gone-game-season-01-2020.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 714,
-    "title": "The Raikar Case Season-01",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/the-raikar-case-season-01-2020.jpg",
-    "genre": ["Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 715,
-    "title": "Undekhi Season-01",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/undekhi-season-01-2020.jpg",
-    "genre": ["Crime","Drama","Thriller"]
-  },
-  {
-    "id": 716,
-    "title": "Hostages Season-02",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/hostages-season-02-2020.jpg",
-    "genre": ["Crime","Drama","Thriller"]
-  },
-  {
-    "id": 717,
-    "title": "Never Kiss Your Best Friend Season-02",
-    "year": 2020,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/never-kiss-your-best-friend-season-02-2020.jpg",
-    "genre": ["Drama","Romance"]
-  },
-  {
-    "id": 718,
-    "title": "Money Heist Season-04",
-    "year": 2020,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/money-heist-season-04-2020.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 719,
-    "title": "Army Of The Thieves",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/army-of-the-thieves-2021.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Thriller"]
-  },
-  {
-    "id": 720,
-    "title": "Dont Breathe 2",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/dont-breathe-2-2021.jpg",
-    "genre": ["Crime","Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 721,
-    "title": "Fast And Furious 9",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/fast-and-furious-9-2021.jpg",
-    "genre": ["Action","Adventure","Crime","Thriller"]
-  },
-  {
-    "id": 722,
-    "title": "Kate",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/kate-2021.jpg",
-    "genre": ["Action","Adventure","Crime","Thriller"]
-  },
-  {
-    "id": 723,
-    "title": "No Time To Die",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/no-time-to-die-2021.jpg",
-    "genre": ["Action","Adventure","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 724,
-    "title": "Nobody",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/nobody-2021.jpg",
-    "genre": ["Action","Crime","Drama","Thriller"]
-  },
-  {
-    "id": 725,
-    "title": "Red Notice",
-    "year": 2021,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/red-notice-2021.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Mystery","Thriller"]
-  },
+  "id": 701,
+  "title": "Malang",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/malang-2020.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 702,
+  "title": "Ratsasan",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/ratsasan-2020.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 703,
+  "title": "Sufna",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/sufna-2020.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 704,
+  "title": "4 Thieves",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/4-thieves-2020.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 705,
+  "title": "Abhay Season-02",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/abhay-season-02-2020.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 706,
+  "title": "Afsos Season-01",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/afsos-season-01-2020.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 707,
+  "title": "Asur Season-01",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/asur-season-01-2020.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 708,
+  "title": "Bicchoo Ka Khel",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/bicchoo-ka-khel-2020.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 709,
+  "title": "Criminal Justice Season-02",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/criminal-justice-season-02-2020.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 710,
+  "title": "High Season-01",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/high-season-01-2020.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 711,
+  "title": "Mirzapur Season-02",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/mirzapur-season-02-2020.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 712,
+  "title": "Never Kiss Your Best Friend Season-01",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/never-kiss-your-best-friend-season-01-2020.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 713,
+  "title": "The Gone Game Season-01",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/the-gone-game-season-01-2020.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 714,
+  "title": "The Raikar Case Season-01",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/the-raikar-case-season-01-2020.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 715,
+  "title": "Undekhi Season-01",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/undekhi-season-01-2020.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 716,
+  "title": "Hostages Season-02",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/hostages-season-02-2020.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 717,
+  "title": "Never Kiss Your Best Friend Season-02",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/never-kiss-your-best-friend-season-02-2020.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 718,
+  "title": "Money Heist Season-04",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/money-heist-season-04-2020.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 719,
+  "title": "Army Of The Thieves",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/army-of-the-thieves-2021.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 720,
+  "title": "Dont Breathe 2",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/dont-breathe-2-2021.jpg",
+  "genre": ["Horror"]
+},
+{
+  "id": 721,
+  "title": "Fast And Furious 9",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/fast-and-furious-9-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 722,
+  "title": "Kate",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/kate-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 723,
+  "title": "No Time To Die",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/no-time-to-die-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 724,
+  "title": "Nobody",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/nobody-2021.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 725,
+  "title": "Red Notice",
+  "year": 2021,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/red-notice-2021.jpg",
+  "genre": ["Action"]
+},
   {
     "id": 726,
     "title": "The Suicide Squad",
