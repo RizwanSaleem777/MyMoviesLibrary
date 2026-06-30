@@ -7731,505 +7731,505 @@
   "genre": ["Thriller"]
 },
   {
-    "id": 776,
-    "title": "Mili",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mili-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
+  "id": 776,
+  "title": "Mili",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mili-2022.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 777,
+  "title": "K G F Chapter 2",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/k-g-f-chapter-2-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 778,
+  "title": "RRR",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/rrr-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 779,
+  "title": "Forensic",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/forensic-2022.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 780,
+  "title": "The Legend Of Maula Jatt",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-legend-of-maula-jatt-2022.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 781,
+  "title": "Abhay Season-03",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/abhay-season-03-2022.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 782,
+  "title": "Apharan Season-02",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/apharan-season-01-2022.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 783,
+  "title": "Monica O My Darling",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/monica-o-my-darling-2022.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 784,
+  "title": "Rudra The Edge Of Darkness",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/rudra-the-edge-of-darkness-2022.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 785,
+  "title": "Extraction 2",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/extraction-2-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 786,
+  "title": "John Wick 4",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/john-wick-4-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 787,
+  "title": "Sisu",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/sisu-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 788,
+  "title": "Retribution",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/retribution-2023.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 789,
+  "title": "Love At First Sight",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/love-at-first-sight-2023.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 790,
+  "title": "Fast X",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/fast-x-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 791,
+  "title": "The Equalizer 3",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-equalizer-3-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 792,
+  "title": "The Killer",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-killer-2023.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 793,
+  "title": "Meg 2 The Trench",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/meg-2-the-trench-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 794,
+  "title": "To Catch A Killer",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/to-catch-a-killer-2023.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 795,
+  "title": "Mission Impossible Dead Reckoning",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mission-impossible-dead-reckoning-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 796,
+  "title": "Night of the Hunted",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/night-of-the-hunted-2023.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 797,
+  "title": "Mothers Day",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/mothers-day-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 798,
+  "title": "The Flash",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-flash-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 799,
+  "title": "The Wrath of Becky",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-wrath-of-becky-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 800,
+  "title": "The Childe",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the-childe-2023.jpg",
+  "genre": ["Action"]
+},
   {
-    "id": 777,
-    "title": "K G F Chapter 2",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/k-g-f-chapter-2-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 778,
-    "title": "RRR",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/rrr-2022.jpg",
-    "genre": ["Action","Adventure","Drama","War"]
-  },
-  {
-    "id": 779,
-    "title": "Forensic",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/forensic-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 780,
-    "title": "The Legend Of Maula Jatt",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-legend-of-maula-jatt-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 781,
-    "title": "Abhay Season-03",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/abhay-season-03-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 782,
-    "title": "Apharan Season-02",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/apharan-season-01-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 783,
-    "title": "Monica O My Darling",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/monica-o-my-darling-2022.jpg",
-    "genre": ["Comedy","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 784,
-    "title": "Rudra The Edge Of Darkness",
-    "year": 2022,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/rudra-the-edge-of-darkness-2022.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 785,
-    "title": "Extraction 2",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/extraction-2-2023.jpg",
-    "genre": ["Action","Adventure","Crime","Thriller"]
-  },
-  {
-    "id": 786,
-    "title": "John Wick 4",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/john-wick-4-2023.jpg",
-    "genre": ["Action","Adventure","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 787,
-    "title": "Sisu",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/sisu-2023.jpg",
-    "genre": ["Action","Adventure","War","Western"]
-  },
-  {
-    "id": 788,
-    "title": "Retribution",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/retribution-2023.jpg",
-    "genre": ["Action","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 789,
-    "title": "Love At First Sight",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/love-at-first-sight-2023.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 790,
-    "title": "Fast X",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/fast-x-2023.jpg",
-    "genre": ["Action","Adventure","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 791,
-    "title": "The Equalizer 3",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-equalizer-3-2023.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 792,
-    "title": "The Killer",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-killer-2023.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 793,
-    "title": "Meg 2 The Trench",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/meg-2-the-trench-2023.jpg",
-    "genre": ["Action","Adventure","Horror","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 794,
-    "title": "To Catch A Killer",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/to-catch-a-killer-2023.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Horror","Mystery","Thriller"]
-  },
-  {
-    "id": 795,
-    "title": "Mission Impossible Dead Reckoning",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mission-impossible-dead-reckoning-2023.jpg",
-    "genre": ["Action","Adventure","Crime","Mystery","Thriller"]
-  },
-  {
-    "id": 796,
-    "title": "Night of the Hunted",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/night-of-the-hunted-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 797,
-    "title": "Mothers Day",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/mothers-day-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 798,
-    "title": "The Flash",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-flash-2023.jpg",
-    "genre": ["Action","Adventure","Fantasy","Sci-Fi"]
-  },
-  {
-    "id": 799,
-    "title": "The Wrath of Becky",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-wrath-of-becky-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 800,
-    "title": "The Childe",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/the-childe-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 801,
-    "title": "Bholaa",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bholaa-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 802,
-    "title": "Vaarisu",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/vaarisu-2023.jpg",
-    "genre": ["Action","Comedy","Crime","Drama","Romance","Thriller"]
-  },
-  {
-    "id": 803,
-    "title": "Bloody Daddy",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/bloody-daddy-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 804,
-    "title": "Carry On Jatta 3",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/carry-on-jatta-3-2023.jpg",
-    "genre": ["Comedy","Drama","Family","Romance"]
-  },
-  {
-    "id": 805,
-    "title": "Dream Girl 2",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/dream-girl-2-2023.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 806,
-    "title": "Haddi",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/haddi-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 807,
-    "title": "Jaane Jaan",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/jaane-jaan-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 808,
-    "title": "Jawan",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/jawan-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 809,
-    "title": "Apurva",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/apurva-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 810,
-    "title": "12Th Fail",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/12th-fail-2023.jpg",
-    "genre": ["Biography","Comedy","Drama","Family","Romance"]
-  },
-  {
-    "id": 811,
-    "title": "Kho Gaye Hum Kahan",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/kho-gaye-hum-kahan-2023.jpg",
-    "genre": ["Comedy","Drama","Romance"]
-  },
-  {
-    "id": 812,
-    "title": "Animal",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/animal-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 813,
-    "title": "Dunki",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/dunki-2023.jpg",
-    "genre": ["Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 814,
-    "title": "Hi Nanna",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/hi-nanna-2023.jpg",
-    "genre": ["Drama","Family","Romance"]
-  },
-  {
-    "id": 815,
-    "title": "Salaar Part 1 Ceasefire",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/salaar-part-1-ceasefire-2023.jpg",
-    "genre": ["Action","Adventure","Crime","Drama","Mystery","Thriller"]
-  },
-  {
-    "id": 816,
-    "title": "Leo",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/leo-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 817,
-    "title": "Maharaja",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/maharaja-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 818,
-    "title": "Asur season-02",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/asur-season-02-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 819,
-    "title": "The Trial Pyaar Kaanoon Dhokha Season 01",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/the trial.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 820,
-    "title": "Kaala Paani Season-01",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/kaala-paani-season-01-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 821,
-    "title": "Dahaad Season 01",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/dahaad-season-01-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 822,
-    "title": "Cubicles Season-03",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/cubicles-season-03-2023.jpg",
-    "genre": ["Comedy","Drama"]
-  },
-  {
-    "id": 823,
-    "title": "Por Thozhil",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Movie",
-    "imdb": "",
-    "poster": "posters/por-thozhil-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 824,
-    "title": "Sapne Vs Everyone S1",
-    "year": 2023,
-    "origin": "Bollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/sapne-vs-everyone-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
-  {
-    "id": 825,
-    "title": "Who Is Erin Carter",
-    "year": 2023,
-    "origin": "Hollywood",
-    "type": "Series",
-    "imdb": "",
-    "poster": "posters/who-is-erin-carter-2023.jpg",
-    "genre": ["Action","Adventure","Comedy","Crime","Drama","Family","Fantasy","Horror","Mystery","Romance","Sci-Fi","Thriller"]
-  },
+  "id": 801,
+  "title": "Bholaa",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bholaa-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 802,
+  "title": "Vaarisu",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/vaarisu-2023.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 803,
+  "title": "Bloody Daddy",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/bloody-daddy-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 804,
+  "title": "Carry On Jatta 3",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/carry-on-jatta-3-2023.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 805,
+  "title": "Dream Girl 2",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/dream-girl-2-2023.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 806,
+  "title": "Haddi",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/haddi-2023.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 807,
+  "title": "Jaane Jaan",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/jaane-jaan-2023.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 808,
+  "title": "Jawan",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/jawan-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 809,
+  "title": "Apurva",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/apurva-2023.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 810,
+  "title": "12Th Fail",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/12th-fail-2023.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 811,
+  "title": "Kho Gaye Hum Kahan",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/kho-gaye-hum-kahan-2023.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 812,
+  "title": "Animal",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/animal-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 813,
+  "title": "Dunki",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/dunki-2023.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 814,
+  "title": "Hi Nanna",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/hi-nanna-2023.jpg",
+  "genre": ["Romance"]
+},
+{
+  "id": 815,
+  "title": "Salaar Part 1 Ceasefire",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/salaar-part-1-ceasefire-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 816,
+  "title": "Leo",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/leo-2023.jpg",
+  "genre": ["Action"]
+},
+{
+  "id": 817,
+  "title": "Maharaja",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/maharaja-2023.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 818,
+  "title": "Asur season-02",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/asur-season-02-2023.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 819,
+  "title": "The Trial Pyaar Kaanoon Dhokha Season 01",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/the trial.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 820,
+  "title": "Kaala Paani Season-01",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/kaala-paani-season-01-2023.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 821,
+  "title": "Dahaad Season 01",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/dahaad-season-01-2023.jpg",
+  "genre": ["Crime"]
+},
+{
+  "id": 822,
+  "title": "Cubicles Season-03",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/cubicles-season-03-2023.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 823,
+  "title": "Por Thozhil",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/por-thozhil-2023.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 824,
+  "title": "Sapne Vs Everyone S1",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/sapne-vs-everyone-2023.jpg",
+  "genre": ["Drama"]
+},
+{
+  "id": 825,
+  "title": "Who Is Erin Carter",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Series",
+  "imdb": "",
+  "poster": "posters/who-is-erin-carter-2023.jpg",
+  "genre": ["Thriller"]
+},
   {
     "id": 826,
     "title": "Berlin Season-01",
