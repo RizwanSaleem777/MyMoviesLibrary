@@ -411,7 +411,16 @@ font-size:13px;
 color:#666;
 line-height:1.4;
 }
-    </style>
+    
+.hero-banner{margin:0 25px 25px;border-radius:24px;overflow:hidden;position:relative;height:420px;background:#222;color:#fff;display:flex;align-items:center}
+.hero-bg{position:absolute;inset:0;background-size:cover;background-position:center;filter:blur(8px) brightness(.35);transform:scale(1.08)}
+.hero-content{position:relative;z-index:2;display:flex;gap:30px;align-items:center;padding:35px}
+.hero-poster{width:220px;height:330px;object-fit:cover;border-radius:18px;box-shadow:0 20px 40px rgba(0,0,0,.4)}
+.hero-info h2{font-size:46px;margin:0 0 10px}
+.hero-meta{font-size:18px;opacity:.9;margin-bottom:15px}
+.hero-buttons button{margin-right:10px}
+
+</style>
 </head>
 <body>
 
@@ -462,7 +471,23 @@ line-height:1.4;
 
 </header>
 
-   <div class="dashboard">
+   
+<div class="hero-banner" id="heroBanner">
+<div class="hero-bg" id="heroBg"></div>
+<div class="hero-content">
+<img id="heroPoster" class="hero-poster" src="">
+<div class="hero-info">
+<h2 id="heroTitle">Loading...</h2>
+<div class="hero-meta" id="heroMeta"></div>
+<div class="hero-buttons">
+<button class="btn-add" onclick="showRandomHero()">🎲 Random Movie</button>
+<a id="heroImdb" target="_blank"><button class="btn-secondary">IMDb</button></a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="dashboard">
 
 <div class="stats-row">
 
@@ -607,6 +632,7 @@ async function loadMovies() {
         renderGenres();
 
         renderMovies();
+        showRandomHero();
 
     } catch (error) {
 
@@ -933,6 +959,20 @@ function setGenre(genre, element){
     renderMovies();
 
 }
-    </script>
+    
+function showRandomHero(){
+ if(!movies.length)return;
+ const m=movies[Math.floor(Math.random()*movies.length)];
+ heroTitle.textContent=m.title;
+ heroMeta.textContent=`${m.year} • ${m.origin} • ${m.type}`+(m.genre&&m.genre.length?` • ${m.genre.join(", ")}`:"");
+ heroPoster.src=m.poster||"";
+ heroBg.style.backgroundImage=`url('${m.poster||""}')`;
+ if(m.imdb&&m.imdb.startsWith("http")){
+   heroImdb.href=m.imdb; heroImdb.style.display="inline";
+ }else heroImdb.style.display="none";
+}
+
+setInterval(showRandomHero,6000);
+</script>
 </body>
 </html>
