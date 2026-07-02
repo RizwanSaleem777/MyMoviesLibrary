@@ -411,6 +411,72 @@ font-size:13px;
 color:#666;
 line-height:1.4;
 }
+
+/* ===== HERO BANNER ===== */
+
+.hero-banner{
+    position:relative;
+    height:420px;
+    margin:20px;
+    border-radius:20px;
+    overflow:hidden;
+    display:flex;
+    align-items:center;
+    color:#fff;
+}
+
+.hero-bg{
+    position:absolute;
+    inset:0;
+    background-size:cover;
+    background-position:center;
+    filter:blur(10px);
+    transform:scale(1.1);
+}
+
+.hero-overlay{
+    position:absolute;
+    inset:0;
+    background:linear-gradient(to right,
+        rgba(0,0,0,.88),
+        rgba(0,0,0,.55),
+        rgba(0,0,0,.25));
+}
+
+.hero-content{
+    position:relative;
+    z-index:2;
+    display:flex;
+    align-items:center;
+    gap:35px;
+    padding:35px;
+}
+
+.hero-poster{
+    width:220px;
+    border-radius:18px;
+    box-shadow:0 20px 45px rgba(0,0,0,.45);
+}
+
+.hero-info h2{
+    font-size:48px;
+    margin:10px 0;
+    color:#fff;
+}
+
+.hero-info p{
+    font-size:18px;
+    opacity:.9;
+}
+
+#heroYear{
+    display:inline-block;
+    padding:6px 12px;
+    background:#6c5ce7;
+    border-radius:50px;
+    font-weight:bold;
+}
+
     </style>
 </head>
 <body>
@@ -461,6 +527,29 @@ line-height:1.4;
     </div>
 
 </header>
+
+<div id="heroBanner" class="hero-banner" style="display:none;">
+    <div class="hero-bg" id="heroBg"></div>
+
+    <div class="hero-overlay"></div>
+
+    <div class="hero-content">
+
+        <img id="heroPoster" class="hero-poster">
+
+        <div class="hero-info">
+
+            <span id="heroYear"></span>
+
+            <h2 id="heroTitle"></h2>
+
+            <p id="heroGenre"></p>
+
+        </div>
+
+    </div>
+
+</div>
 
    <div class="dashboard">
 
@@ -607,6 +696,8 @@ async function loadMovies() {
         renderGenres();
 
         renderMovies();
+
+        initHeroBanner();   // 👈 Ye line yahin add karni hai
 
     } catch (error) {
 
@@ -933,6 +1024,49 @@ function setGenre(genre, element){
     renderMovies();
 
 }
+
+/* ========= HERO BANNER ========= */
+
+let heroTimer = null;
+
+function initHeroBanner(){
+
+    const banner = document.getElementById("heroBanner");
+
+    if(!banner) return;
+
+    if(!movies || movies.length===0) return;
+
+    banner.style.display="flex";
+
+    heroRandom();
+
+    clearInterval(heroTimer);
+
+    heroTimer=setInterval(heroRandom,6000);
+
+}
+
+function heroRandom(){
+
+    const movie=movies[Math.floor(Math.random()*movies.length)];
+
+    const poster=movie.poster || "";
+
+    document.getElementById("heroTitle").textContent=movie.title || "";
+
+    document.getElementById("heroYear").textContent=movie.year || "";
+
+    document.getElementById("heroGenre").textContent=
+        `${movie.origin} • ${movie.type} • ${(movie.genre||[]).join(" • ")}`;
+
+    document.getElementById("heroPoster").src=poster;
+
+    document.getElementById("heroBg").style.backgroundImage=`url('${poster}')`;
+
+}
+
+/* ========= END HERO ========= */
     </script>
 </body>
 </html>
