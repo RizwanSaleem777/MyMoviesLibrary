@@ -411,211 +411,6 @@ font-size:13px;
 color:#666;
 line-height:1.4;
 }
-
-/* HERO BANNER START */
-.hero-banner {
-    position: relative;
-    width: calc(100% - 50px);
-    height: 430px;
-    margin: 25px auto 0 auto;
-    border-radius: 24px;
-    overflow: hidden;
-    background-color: #0b0f19;
-    box-shadow: 0 20px 40px rgba(0,0,0,0.2);
-    display: flex;
-    align-items: center;
-}
-
-.hero-bg-blur {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    filter: blur(30px) scale(1.1);
-    transform: translate3d(0,0,0);
-    opacity: 0.45;
-    z-index: 1;
-    transition: background-image 0.8s ease-in-out;
-}
-
-.hero-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(90deg, rgba(11, 15, 25, 0.95) 30%, rgba(11, 15, 25, 0.7) 60%, rgba(11, 15, 25, 0.4) 100%);
-    z-index: 2;
-}
-
-.hero-content {
-    position: relative;
-    z-index: 3;
-    display: flex;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    padding: 0 50px;
-    gap: 40px;
-}
-
-.hero-poster-wrapper {
-    width: 230px;
-    height: 330px;
-    flex-shrink: 0;
-    border-radius: 16px;
-    overflow: hidden;
-    box-shadow: 0 15px 35px rgba(0,0,0,0.5);
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    background: #1e293b;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.hero-poster-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-.hero-placeholder {
-    font-size: 4.5rem;
-    color: rgba(255,255,255,0.2);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(135deg, #1e293b, #0f172a);
-}
-
-.hero-details {
-    flex: 1;
-    color: #ffffff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-.hero-meta-row {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    flex-wrap: wrap;
-    margin-bottom: 14px;
-}
-
-.hero-badge-year {
-    background: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(5px);
-    color: #fff;
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-weight: 700;
-    font-size: 13px;
-}
-
-.hero-badge-origin {
-    background: rgba(59, 130, 246, 0.25);
-    border: 1px solid rgba(59, 130, 246, 0.4);
-    backdrop-filter: blur(5px);
-    color: #60a5fa;
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-weight: 600;
-    font-size: 12px;
-}
-
-.hero-badge-type {
-    background: rgba(16, 185, 129, 0.25);
-    border: 1px solid rgba(16, 185, 129, 0.4);
-    backdrop-filter: blur(5px);
-    color: #34d399;
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-weight: 600;
-    font-size: 12px;
-}
-
-.hero-title {
-    font-size: 42px;
-    font-weight: 900;
-    line-height: 1.2;
-    margin-bottom: 12px;
-    color: #ffffff;
-    text-shadow: 0 2px 10px rgba(0,0,0,0.3);
-}
-
-.hero-genres {
-    font-size: 15px;
-    color: #cbd5e1;
-    margin-bottom: 25px;
-    font-weight: 500;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-}
-
-.hero-actions {
-    display: flex;
-    gap: 15px;
-    flex-wrap: wrap;
-}
-
-.btn-hero-primary {
-    background: linear-gradient(135deg, #4f46e5, #7c3aed);
-    color: white;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 0 24px;
-    box-shadow: 0 8px 20px rgba(79,70,229,0.35);
-}
-
-.btn-hero-primary:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 12px 24px rgba(79,70,229,0.5);
-}
-
-.btn-hero-secondary {
-    background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(10px);
-    color: white;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 0 24px;
-}
-
-.btn-hero-secondary:hover {
-    background: rgba(255, 255, 255, 0.2);
-    transform: translateY(-2px);
-}
-
-/* Smooth Fade Animations */
-.hero-fade {
-    animation: heroFadeKey 0.6s ease-in-out forwards;
-}
-
-@keyframes heroFadeKey {
-    from { opacity: 0; transform: translateY(10px); }
-    to { opacity: 1; transform: translateY(0); }
-}
-
-@media (max-width: 768px) {
-    .hero-banner { height: auto; padding: 30px 0; width: calc(100% - 30px); }
-    .hero-content { flex-direction: column; padding: 0 25px; text-align: center; gap: 20px; }
-    .hero-poster-wrapper { width: 170px; height: 250px; }
-    .hero-title { font-size: 28px; }
-    .hero-meta-row, .hero-genres, .hero-actions { justify-content: center; }
-    .hero-overlay { background: rgba(11, 15, 25, 0.85); }
-}
-/* HERO BANNER END */
     </style>
 </head>
 <body>
@@ -667,32 +462,7 @@ line-height:1.4;
 
 </header>
 
-<div class="hero-banner" id="heroBannerSection" style="display: none;">
-    <div class="hero-bg-blur" id="heroBgBlur"></div>
-    <div class="hero-overlay"></div>
-    <div class="hero-content" id="heroContentAnimated">
-        <div class="hero-poster-wrapper" id="heroPosterContainer">
-            </div>
-        <div class="hero-details">
-            <div class="hero-meta-row">
-                <span class="hero-badge-year" id="heroYear">-.--</span>
-                <span class="hero-badge-origin" id="heroOrigin">-</span>
-                <span class="hero-badge-type" id="heroType">-</span>
-            </div>
-            <h2 class="hero-title" id="heroTitle">Loading Spotlight...</h2>
-            <div class="hero-genres" id="heroGenres"></div>
-            <div class="hero-actions">
-                <button class="btn-hero-primary" onclick="changeHeroMovie()">
-                    🎲 Random Movie
-                </button>
-                <a id="heroImdbBtn" href="#" target="_blank" class="btn-hero-secondary" style="display: none; text-decoration: none;">
-                    ★ IMDb
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="dashboard">
+   <div class="dashboard">
 
 <div class="stats-row">
 
@@ -751,6 +521,7 @@ line-height:1.4;
     <div class="grid-container" id="movieGrid">
     </div>
 </div>
+    <!-- Add Modal -->
     <div class="modal-overlay" id="formModal">
         <div class="modal">
             <h2 id="modalTitle">Add Movie</h2>
@@ -807,6 +578,7 @@ line-height:1.4;
         </div>
     </div>
 
+    <!-- Toast Notification -->
     <div id="toast">Message</div>
 
     <script>
@@ -835,10 +607,6 @@ async function loadMovies() {
         renderGenres();
 
         renderMovies();
-
-        /* HERO BANNER START */
-        initHeroBanner();
-        /* HERO BANNER END */
 
     } catch (error) {
 
@@ -1165,80 +933,6 @@ function setGenre(genre, element){
     renderMovies();
 
 }
-
-/* HERO BANNER START */
-let heroIntervalId = null;
-
-function initHeroBanner() {
-    if (!movies || movies.length === 0) return;
-    
-    document.getElementById('heroBannerSection').style.display = 'flex';
-    changeHeroMovie();
-    
-    // Clear any previous interval to prevent duplicates
-    if(heroIntervalId) clearInterval(heroIntervalId);
-    heroIntervalId = setInterval(changeHeroMovie, 6000);
-}
-
-function changeHeroMovie() {
-    if (!movies || movies.length === 0) return;
-    
-    const randomIndex = Math.floor(Math.random() * movies.length);
-    const movie = movies[randomIndex];
-    
-    const bgBlur = document.getElementById('heroBgBlur');
-    const contentAnimated = document.getElementById('heroContentAnimated');
-    const posterContainer = document.getElementById('heroPosterContainer');
-    const titleEl = document.getElementById('heroTitle');
-    const yearEl = document.getElementById('heroYear');
-    const originEl = document.getElementById('heroOrigin');
-    const typeEl = document.getElementById('heroType');
-    const genresEl = document.getElementById('heroGenres');
-    const imdbBtn = document.getElementById('heroImdbBtn');
-
-    // Trigger smooth fade transition
-    contentAnimated.classList.remove('hero-fade');
-    void contentAnimated.offsetWidth; // Force reflow to reset CSS transition
-    contentAnimated.classList.add('hero-fade');
-
-    // Setup Background Blur
-    if (movie.poster) {
-        bgBlur.style.backgroundImage = `url('${movie.poster}')`;
-        posterContainer.innerHTML = `<img src="${movie.poster}" alt="${movie.title}" class="hero-poster-img" onerror="handleHeroPosterError(this)">`;
-    } else {
-        bgBlur.style.backgroundImage = 'none';
-        posterContainer.innerHTML = `<div class="hero-placeholder">🎬</div>`;
-    }
-
-    // Set textual details
-    titleEl.textContent = movie.title;
-    yearEl.textContent = movie.year || 'N/A';
-    originEl.textContent = movie.origin || 'N/A';
-    typeEl.textContent = movie.type || 'Movie';
-    
-    // Render Genres
-    if (movie.genre && movie.genre.length) {
-        genresEl.textContent = movie.genre.join(" • ");
-    } else {
-        genresEl.textContent = "";
-    }
-
-    // Handle IMDb Button Link Validation
-    if (movie.imdb && movie.imdb.startsWith('http')) {
-        imdbBtn.href = movie.imdb;
-        imdbBtn.style.display = 'inline-flex';
-    } else {
-        imdbBtn.style.display = 'none';
-    }
-}
-
-function handleHeroPosterError(imgElement) {
-    // If the main image fails to load, replace wrapper content with a clean placeholder icon
-    const container = document.getElementById('heroPosterContainer');
-    container.innerHTML = `<div class="hero-placeholder">🎬</div>`;
-    document.getElementById('heroBgBlur').style.backgroundImage = 'none';
-}
-/* HERO BANNER END */
     </script>
 </body>
 </html>
