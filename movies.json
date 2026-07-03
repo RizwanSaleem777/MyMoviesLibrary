@@ -8698,7 +8698,90 @@
   "imdb": "",
   "poster": "posters/M4MMotive for Murder.jpg",
   "genre": ["Crime"]
+},
+{
+  "id": 347,
+  "title": "Kaalidas 2",
+  "year": 2026,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/kaalidas2.jpg",
+  "genre": ["Crime","Mystery"]
+},
+
+{
+  "id": 482,
+  "title": "Rorschach",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Rorschach.jpg",
+  "genre": ["Thriller","Mystery"]
+},
+{
+  "id": 873,
+  "title": "Mission: Impossible – The Final Reckoning",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/MissionImpossibleThe Final Reckoning.jpg",
+  "genre": ["Action","Thriller"]
+},
+{
+  "id": 874,
+  "title": "Fukrey",
+  "year": 2013,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/fukrey2013.jpg",
+  "genre": ["Comedy"]
+},
+{
+  "id": 875,
+  "title": "Rekhachithram",
+  "year": 2025,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Rekhachithram.jpg",
+  "genre": ["Crime","Thriller"]
+},
+
+
+{
+  "id": 876,
+  "title": "Ini Utharam",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/IniUtharam.jpg",
+  "genre": ["Thriller"]
+},
+
+
+{
+  "id": 877,
+  "title": "Kaalidas",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/kaalidas2018.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 878,
+  "title": "Avatar: Fire and Ash",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/AvatarFireandAsh.jpg",
+  "genre": ["Action","Fantasy"]
 }
-
-
 ]
