@@ -8783,5 +8783,16 @@
   "imdb": "",
   "poster": "posters/AvatarFireandAsh.jpg",
   "genre": ["Action","Fantasy"]
+},
+
+{
+  "id": 879,
+  "title": "Har dil jo pyar karega",
+  "year": 2000,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/har-dil-jo-pyar-karega-2000.jpg",
+  "genre": ["Romance"]
 }
 ]
