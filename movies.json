@@ -8794,5 +8794,47 @@
   "imdb": "",
   "poster": "posters/har-dil-jo-pyar-karega-2000.jpg",
   "genre": ["Romance"]
+},
+{
+  "id": 880,
+  "title": "Seetharaam Benoy Case No.18",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Seetharaam Benoy Case No.18  2021.jpg",
+  "genre": ["Crime/Thriller"]
+},
+
+{
+  "id": 881,
+  "title": "Second Case of Seetharam",
+  "year": 2026,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/SecondCase of seetharam.jpg",
+  "genre": ["Crime/Thriller"]
+},
+{
+  "id": 882,
+  "title": "Escape from Pretoria",
+  "year": 2020,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Escape from Pretoria.jpg",
+  "genre": ["Thriller"]
+},
+{
+  "id": 883,
+  "title": "Evaru",
+  "year": 2019,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Evaru.jpg",
+  "genre": ["Thriller/Mystery"]
 }
+
 ]
