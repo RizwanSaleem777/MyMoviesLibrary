@@ -8834,7 +8834,28 @@
   "type": "Movie",
   "imdb": "",
   "poster": "posters/Evaru.jpg",
-  "genre": ["Thriller/Mystery"]
+  "genre": ["Thriller","Mystery"]
+},
+{
+  "id": 884,
+  "title": "Plane",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Plane2023.jpg",
+  "genre": ["Action","Thriller"]
+},
+{
+  "id": 885,
+  "title": "Captain America: Brave New World",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Captain AmericaBrave New World.jpg",
+  "genre": ["Action","Sci-FI"]
 }
+
 
 ]
