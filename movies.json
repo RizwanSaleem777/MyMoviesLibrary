@@ -8875,6 +8875,16 @@
   "imdb": "",
   "poster": "posters/Frankenstein.jpg",
   "genre": ["Horror"]
+},
+{
+  "id": 888,
+  "title": "The covenant",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/the covenant.jpg",
+  "genre": ["WAR"]
 }
 
 
