@@ -8865,7 +8865,18 @@
   "imdb": "",
   "poster": "posters/In the Land of Saints and Sinners.jpg",
   "genre": ["Action","Thriller"]
+},
+{
+  "id": 887,
+  "title": "Frankenstein",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Frankenstein.jpg",
+  "genre": ["Horror"]
 }
+
 
 
 ]
