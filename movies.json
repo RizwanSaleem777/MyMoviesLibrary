@@ -8895,6 +8895,16 @@
   "imdb": "",
   "poster": "posters/Haseen Dillruba.jpg",
   "genre": ["Thriller","Mystery"]
+},
+{
+  "id": 890,
+  "title": "Maargan",
+  "year": 2025,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/maargan.jpg",
+  "genre": ["Crime","Thriller"]
 }
 
 ]
