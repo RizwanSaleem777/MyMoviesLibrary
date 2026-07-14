@@ -8885,7 +8885,18 @@
   "imdb": "",
   "poster": "posters/The covenant.jpg",
   "genre": ["WAR"]
+},
+{
+  "id": 889,
+  "title": "Haseen Dillruba",
+  "year": 2023,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/Haseen Dillruba.jpg",
+  "genre": ["Thriller"/"Mystery"]
 }
+
 
 
 
