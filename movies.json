@@ -8784,6 +8784,16 @@
   "poster": "posters/AvatarFireandAsh.jpg",
   "genre": ["Action","Fantasy"]
 },
+{
+  "id": 879,
+  "title": "Identity",
+  "year": 2025,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/identity-2025.jpg",
+  "genre": ["Action","Thriller"]
+},
 
 {
   "id": 880,
