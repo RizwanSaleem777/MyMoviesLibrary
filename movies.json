@@ -8915,6 +8915,16 @@
   "imdb": "",
   "poster": "posters/Den of Thieves.jpg",
   "genre": ["Action","Crime"]
+},
+{
+  "id": 892,
+  "title": "High Season-01",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "",
+  "poster": "posters/high-season-01-2020.jpg",
+  "genre": ["Drama","Crime"]
 }
 
 ]
