@@ -8945,6 +8945,17 @@
   "imdb": "6.4",
   "poster": "posters/The Taking of Pelham 123.jpg",
   "genre": ["Action","Thriller"]
+},
+{
+  "id": 895,
+  "title": "The Naked Gun",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "6.3",
+  "poster": "posters/The Naked Gun.jpg",
+  "genre": ["Comedy","Action"]
 }
+
 
 ]
