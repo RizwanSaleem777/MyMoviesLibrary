@@ -6565,7 +6565,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.9",
   "poster": "posters/game-over-2019.jpg",
   "genre": ["Thriller"]
 },
@@ -6685,7 +6685,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.9",
   "poster": "posters/abhay-season-01-2019.jpg",
   "genre": ["Crime"]
 },
@@ -6695,7 +6695,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.1",
   "poster": "posters/criminal-justice-season-01-2019.jpg",
   "genre": ["Crime"]
 },
@@ -6705,7 +6705,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.8",
   "poster": "posters/cubicles-season-01-2019.jpg",
   "genre": ["Comedy"]
 },
@@ -6765,7 +6765,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.2",
   "poster": "posters/cubicles-season-02-2019.jpg",
   "genre": ["Comedy"]
 },
@@ -6835,7 +6835,7 @@
   "year": 2020,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "5.2",
   "poster": "posters/monster-hunter-2020.jpg",
   "genre": ["Action"]
 },
@@ -6885,7 +6885,7 @@
   "year": 2020,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.3",
   "poster": "posters/run-hide-fight-2020.jpg",
   "genre": ["Action"]
 },
@@ -6895,7 +6895,7 @@
   "year": 2020,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "7.1",
   "poster": "posters/the-call-2020.jpg",
   "genre": ["Thriller"]
 },
@@ -6986,7 +6986,7 @@
   "year": 2020,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.5",
   "poster": "posters/malang-2020.jpg",
   "genre": ["Action"]
 },
@@ -6996,7 +6996,7 @@
   "year": 2020,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "8.3",
   "poster": "posters/ratsasan-2020.jpg",
   "genre": ["Thriller"]
 },
@@ -7086,7 +7086,7 @@
   "year": 2020,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.4",
   "poster": "posters/mirzapur-season-02-2020.jpg",
   "genre": ["Crime"]
 },
@@ -7106,7 +7106,7 @@
   "year": 2020,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.8",
   "poster": "posters/the-gone-game-season-01-2020.jpg",
   "genre": ["Crime"]
 },
@@ -7116,7 +7116,7 @@
   "year": 2020,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "6.8",
   "poster": "posters/the-raikar-case-season-01-2020.jpg",
   "genre": ["Crime"]
 },
@@ -7126,7 +7126,7 @@
   "year": 2020,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.9",
   "poster": "posters/undekhi-season-01-2020.jpg",
   "genre": ["Crime"]
 },
@@ -7136,7 +7136,7 @@
   "year": 2020,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "6.8",
   "poster": "posters/hostages-season-02-2020.jpg",
   "genre": ["Crime"]
 },
@@ -7156,7 +7156,7 @@
   "year": 2020,
   "origin": "Hollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.2",
   "poster": "posters/money-heist-season-04-2020.jpg",
   "genre": ["Crime"]
 },
