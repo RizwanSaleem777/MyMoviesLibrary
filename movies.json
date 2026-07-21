@@ -6395,7 +6395,7 @@
   "year": 2019,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "7.3",
   "poster": "posters/how-to-train-your-dragon-3-2019.jpg",
   "genre": ["Animation"]
 },
@@ -6405,7 +6405,7 @@
   "year": 2019,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "7.4",
   "poster": "posters/john-wick-3-2019.jpg",
   "genre": ["Action"]
 },
@@ -6425,7 +6425,7 @@
   "year": 2019,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "5.7",
   "poster": "posters/point-blank-2019.jpg",
   "genre": ["Action"]
 },
@@ -6575,7 +6575,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.8",
   "poster": "posters/good-newz-2019.jpg",
   "genre": ["Comedy"]
 },
@@ -6675,7 +6675,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "7.6",
   "poster": "posters/the-return-of-abhimanyu-2019.jpg",
   "genre": ["Action"]
 },
@@ -6715,7 +6715,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "6.8",
   "poster": "posters/hostages-season-01-2019.jpg",
   "genre": ["Thriller"]
 },
@@ -6725,7 +6725,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "9.0",
   "poster": "posters/kota-factory-season-01-2019.jpg",
   "genre": ["Drama"]
 },
@@ -6735,7 +6735,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.5",
   "poster": "posters/tripling-season-01-2019.jpg",
   "genre": ["Comedy"]
 },
@@ -6745,7 +6745,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.5",
   "poster": "posters/tripling-season-02-2019.jpg",
   "genre": ["Comedy"]
 },
@@ -6755,7 +6755,7 @@
   "year": 2019,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.6",
   "poster": "posters/hello-mini-season-01-2019.jpg",
   "genre": ["Thriller"]
 },
@@ -6775,7 +6775,7 @@
   "year": 2019,
   "origin": "Hollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.8",
   "poster": "posters/the-umbrella-academy-season-01-2019.jpg",
   "genre": ["Action"]
 },
@@ -6785,7 +6785,7 @@
   "year": 2019,
   "origin": "Hollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.8",
   "poster": "posters/the-witcher-season-01-2019.jpg",
   "genre": ["Fantasy"]
 },
@@ -6795,7 +6795,7 @@
   "year": 2019,
   "origin": "Hollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.2",
   "poster": "posters/money-heist-season-03-2019.jpg",
   "genre": ["Crime"]
 },
