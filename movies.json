@@ -1415,7 +1415,7 @@
   "year": 2003,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.0",
   "poster": "posters/fast-and-furious-2-2003.jpg",
   "genre": ["Action"]
 },
@@ -1795,7 +1795,7 @@
   "year": 2005,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.4",
   "poster": "posters/chaos-2005.jpg",
   "genre": ["Crime"]
 },
@@ -1825,7 +1825,7 @@
   "year": 2005,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.5",
   "poster": "posters/hostage-2005.jpg",
   "genre": ["Crime"]
 },
@@ -1895,7 +1895,7 @@
   "year": 2005,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.6",
   "poster": "posters/war-of-the-worlds-2005.jpg",
   "genre": ["Sci-Fi"]
 },
@@ -1995,7 +1995,7 @@
   "year": 2006,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.1",
   "poster": "posters/fast-and-furious-3-2006.jpg",
   "genre": ["Action"]
 },
@@ -2035,7 +2035,7 @@
   "year": 2006,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "8.0",
   "poster": "posters/james-bond-casino-royale-2006.jpg",
   "genre": ["Action"]
 },
@@ -2055,7 +2055,7 @@
   "year": 2006,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "7.4",
   "poster": "posters/pirates-of-the-caribbean-2-2006.jpg",
   "genre": ["Fantasy"]
 },
@@ -2125,7 +2125,7 @@
   "year": 2006,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.6",
   "poster": "posters/x-men-3-2006.jpg",
   "genre": ["Sci-Fi"]
 },
@@ -2195,7 +2195,7 @@
   "year": 2006,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "7.2",
   "poster": "posters/don-2006.jpg",
   "genre": ["Action"]
 },
@@ -2315,7 +2315,7 @@
   "year": 2007,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "7.2",
   "poster": "posters/pirates-of-the-caribbean-3-2007.jpg",
   "genre": ["Fantasy"]
 },
