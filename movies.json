@@ -8096,7 +8096,7 @@
   "year": 2023,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.2",
   "poster": "posters/animal-2023.jpg",
   "genre": ["Action"]
 },
@@ -8156,7 +8156,7 @@
   "year": 2023,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.5",
   "poster": "posters/asur-season-02-2023.jpg",
   "genre": ["Crime"]
 },
@@ -8186,7 +8186,7 @@
   "year": 2023,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.6",
   "poster": "posters/dahaad-season-01-2023.jpg",
   "genre": ["Crime"]
 },
@@ -8196,7 +8196,7 @@
   "year": 2023,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.2",
   "poster": "posters/cubicles-season-03-2023.jpg",
   "genre": ["Comedy"]
 },
@@ -8235,7 +8235,7 @@
   "year": 2023,
   "origin": "Hollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.1",
   "poster": "posters/berlin-season-01-2023.jpg",
   "genre": ["Crime"]
 },
@@ -8245,7 +8245,7 @@
   "year": 2023,
   "origin": "Hollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.3",
   "poster": "posters/hijack-season-01-2023.jpg",
   "genre": ["Thriller"]
 },
@@ -8355,7 +8355,7 @@
   "year": 2024,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.7",
   "poster": "posters/bagheera-the-saviour-2024.jpg",
   "genre": ["Action"]
 },
@@ -8405,7 +8405,7 @@
   "year": 2024,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.3",
   "poster": "posters/murder-in-mahim-s01-2024.jpg",
   "genre": ["Crime"]
 },
@@ -8415,7 +8415,7 @@
   "year": 2024,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.9",
   "poster": "posters/shekhar-home-s01-2024.jpg",
   "genre": ["Mystery"]
 },
@@ -8425,7 +8425,7 @@
   "year": 2024,
   "origin": "Hollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.9",
   "poster": "posters/squid-game-season-02-2024.jpg",
   "genre": ["Thriller"]
 },
@@ -8435,7 +8435,7 @@
   "year": 2024,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.2",
   "poster": "posters/cubicles-season-04.jpg",
   "genre": ["Comedy"]
 },
@@ -8465,7 +8465,7 @@
   "year": 2024,
   "origin": "Bollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "8.0",
   "poster": "posters/sunflower-season-02-2024.jpg",
   "genre": ["Comedy"]
 },
@@ -8485,7 +8485,7 @@
   "year": 2025,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "5.1",
   "poster": "posters/theoldgaurd2.jpg",
   "genre": ["Action"]
 },
@@ -8545,7 +8545,7 @@
   "year": 2025,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.0",
   "poster": "posters/pushpa2.jpg",
   "genre": ["Action"]
 },
@@ -8555,7 +8555,7 @@
   "year": 2025,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.5",
   "poster": "posters/murderreport.jpg",
   "genre": ["Crime"]
 },
@@ -8565,7 +8565,7 @@
   "year": 2025,
   "origin": "Hollywood",
   "type": "Series",
-  "imdb": "",
+  "imdb": "7.9",
   "poster": "posters/Squidgames3.jpg",
   "genre": ["Thriller"]
 },
@@ -8585,7 +8585,7 @@
   "year": 2025,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.9",
   "poster": "posters/Hitthe3rdcase.jpg",
   "genre": ["Crime"]
 },
@@ -8615,7 +8615,7 @@
   "year": 2026,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.2",
   "poster": "posters/mercy.jpg",
   "genre": ["Action"]
 },
@@ -8955,7 +8955,15 @@
   "imdb": "6.3",
   "poster": "posters/The Naked Gun.jpg",
   "genre": ["Comedy","Action"]
+},
+{
+  "id": 896,
+  "title": "13 Days, 13 Nights",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "6.7",
+  "poster": "posters/13 Days, 13 Nights.jpg",
+  "genre": ["WAR","Drama"]
 }
-
-
 ]
