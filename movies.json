@@ -5615,7 +5615,7 @@
   "year": 2017,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.5",
   "poster": "posters/pirates-of-the-caribbean-5-2017.jpg",
   "genre": ["Action","Adventure","Fantasy"]
 },
@@ -5725,7 +5725,7 @@
   "year": 2017,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "8.1",
   "poster": "posters/x-men-9-logan-2017.jpg",
   "genre": ["Action","Drama","Sci-Fi","Thriller"]
 },
