@@ -5565,7 +5565,7 @@
   "year": 2017,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.6",
   "poster": "posters/jumanji-2-2017.jpg",
   "genre": ["Action","Adventure","Comedy","Family","Fantasy"]
 },
@@ -5745,7 +5745,7 @@
   "year": 2017,
   "origin": "Bollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "8.2",
   "poster": "posters/baahubali-2-2017.jpg",
   "genre": ["Action","Adventure","Drama","War"]
 },
@@ -8655,7 +8655,7 @@
   "year": 2017,
   "origin": "Hollywood",
   "type": "Movie",
-  "imdb": "",
+  "imdb": "6.7",
   "poster": "posters/Jungle-2017.jpg",
   "genre": ["Adventure"]
 },
