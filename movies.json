@@ -8966,5 +8966,16 @@
   "imdb": "6.7",
   "poster": "posters/13 Days, 13 Nights.jpg",
   "genre": ["WAR","Drama"]
+},
+{
+  "id": 897,
+  "title": "Dridam",
+  "year": 2026,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "7.0",
+  "poster": "posters/Dridam.jpg",
+  "genre": ["Thriller","Crime"]
 }
+
 ]
