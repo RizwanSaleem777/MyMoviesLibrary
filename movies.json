@@ -8976,6 +8976,17 @@
   "imdb": "7.0",
   "poster": "posters/Dridam.jpg",
   "genre": ["Thriller","Crime"]
+},
+{
+  "id": 898,
+  "title": "The Night Comes for Us",
+  "year": 2026,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "6.9",
+  "poster": "posters/The Night Comes for Us.jpg",
+  "genre": ["Action","Thriller"]
 }
+
 
 ]
