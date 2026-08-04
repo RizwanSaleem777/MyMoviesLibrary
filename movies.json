@@ -8996,6 +8996,16 @@
   "imdb": "6.5",
   "poster": "posters/Peppermint.jpg",
   "genre": ["Action","Thriller"]
+},
+{
+  "id": 900,
+  "title": "Kung Fu Killer",
+  "year": 2014,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "6.4",
+  "poster": "posters/Kung Fu Killer.jpg",
+  "genre": ["Action","Thriller"]
 }
 
 
