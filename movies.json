@@ -9016,7 +9016,18 @@
   "imdb": "7.4",
   "poster": "posters/The Sheep Detectives.jpg",
   "genre": ["Comedy","Mystery"]
+},
+{
+  "id": 902,
+  "title": "Play Dead",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "5.2",
+  "poster": "posters/Play Dead.jpg",
+  "genre": ["Horror","Suspense"]
 }
+
 
 
 ]
