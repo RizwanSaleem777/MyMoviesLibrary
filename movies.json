@@ -9026,7 +9026,18 @@
   "imdb": "5.2",
   "poster": "posters/Play Dead.jpg",
   "genre": ["Horror","Suspense"]
+},
+{
+  "id": 903,
+  "title": "Shutter Island",
+  "year": 2010,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "8.2",
+  "poster": "posters/Shutter Island.jpg",
+  "genre": ["Horror","Mystery"]
 }
+
 
 
 
