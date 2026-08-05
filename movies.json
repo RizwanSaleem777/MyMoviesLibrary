@@ -9006,6 +9006,16 @@
   "imdb": "6.4",
   "poster": "posters/Kung Fu Killer.jpg",
   "genre": ["Action","Thriller"]
+},
+{
+  "id": 901,
+  "title": "The Sheep Detectives",
+  "year": 2026,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "7.4",
+  "poster": "posters/The Sheep Detectives.jpg",
+  "genre": ["Comedy","Mystery"]
 }
 
 
