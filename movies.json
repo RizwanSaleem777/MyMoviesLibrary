@@ -9036,7 +9036,18 @@
   "imdb": "8.2",
   "poster": "posters/Shutter Island.jpg",
   "genre": ["Horror","Mystery"]
+},
+{
+  "id": 904,
+  "title": "Koyla",
+  "year": 1997,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "6.2",
+  "poster": "posters/Koyla.jpg",
+  "genre": ["Thriller"]
 }
+
 
 
 
