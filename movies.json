@@ -9046,10 +9046,26 @@
   "imdb": "6.2",
   "poster": "posters/Koyla.jpg",
   "genre": ["Thriller"]
+},
+{
+  "id": 905,
+  "title": "Valathu Vashathe Kallan",
+  "year": 2026,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "6.1",
+  "poster": "posters/Valathu Vashathe Kallan.jpg",
+  "genre": ["Crime","Thriller"]
+},
+{
+  "id": 906,
+  "title": "Rock On!!",
+  "year": 2008,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "7.7",
+  "poster": "posters/Rock On!!.jpg",
+  "genre": ["Musical","Drama"]
 }
-
-
-
-
 
 ]
