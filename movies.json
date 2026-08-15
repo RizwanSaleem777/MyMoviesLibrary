@@ -9085,8 +9085,19 @@
   "type": "Movie",
   "imdb": "7.4",
   "poster": "posters/Looper.jpg",
-  "genre": ["Action","Sci-fi "]
+  "genre": ["Action","Sci-fi"]
+},
+{
+  "id": 909,
+  "title": "Satluj",
+  "year": 2026,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "8.9",
+  "poster": "posters/satluj.jpg",
+  "genre": ["Crime","Drama"]
 }
+
 
 
 ]
