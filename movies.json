@@ -9066,6 +9066,27 @@
   "imdb": "7.7",
   "poster": "posters/Rock On!!.jpg",
   "genre": ["Musical","Drama"]
+},
+{
+  "id": 907,
+  "title": "12th Man",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "6.8",
+  "poster": "posters/12thMan.jpg",
+  "genre": ["Mystery","Thriller"]
+},
+{
+  "id": 908,
+  "title": "Looper",
+  "year": 2012,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "7.4",
+  "poster": "posters/Looper.jpg",
+  "genre": ["Action","Sci-fi "]
 }
+
 
 ]
