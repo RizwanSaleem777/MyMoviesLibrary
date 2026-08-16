@@ -9096,7 +9096,28 @@
   "imdb": "8.9",
   "poster": "posters/satluj.jpg",
   "genre": ["Crime","Drama"]
+},
+{
+  "id": 910,
+  "title": "Crime Case 99",
+  "year": 2011,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "7.9",
+  "poster": "posters/Crime Case 99.jpg",
+  "genre": ["Thriller","Mystery"]
+},
+{
+  "id": 911,
+  "title": "The Usual Suspects",
+  "year": 1995,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "8.5",
+  "poster": "posters/The Usual Suspects.jpg",
+  "genre": ["Crime","Thriller"]
 }
+
 
 
 
