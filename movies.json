@@ -9116,7 +9116,30 @@
   "imdb": "8.5",
   "poster": "posters/The Usual Suspects.jpg",
   "genre": ["Crime","Thriller"]
+},
+{
+  "id": 912,
+  "title": "Operation Java",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "8.0",
+  "poster": "posters/Operation Java.jpg",
+  "genre": ["Crime","Thriller"]
+},
+{
+  "id": 913,
+  "title": "Talvar",
+  "year": 2015,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "8.1",
+  "poster": "posters/Talvar.jpg",
+  "genre": ["Thriller"]
 }
+
+
+
 
 
 
