@@ -9136,12 +9136,47 @@
   "imdb": "8.1",
   "poster": "posters/Talvar.jpg",
   "genre": ["Thriller"]
+},
+{
+  "id": 914,
+  "title": "Baazigar",
+  "year": 1993,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "7.6",
+  "poster": "posters/Baazigar.jpg",
+  "genre": ["Crime","Thriller"]
+},
+{
+  "id": 915,
+  "title": "Heaven",
+  "year": 2022,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "6.5",
+  "poster": "posters/Heaven.jpg",
+  "genre": ["Thriller","Mystery"]
+},
+{
+  "id": 916,
+  "title": "Boy Kills World",
+  "year": 2022,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "6.4",
+  "poster": "posters/Boy Kills World.jpg",
+  "genre": ["Action","Thriller"]
+},
+{
+  "id": 917,
+  "title": "Van Helsing",
+  "year": 2004,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "6.1",
+  "poster": "posters/Van Helsing.jpg",
+  "genre": ["Horror","Action"]
 }
-
-
-
-
-
 
 
 ]
