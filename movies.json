@@ -9176,7 +9176,16 @@
   "imdb": "6.1",
   "poster": "posters/Van Helsing.jpg",
   "genre": ["Horror","Action"]
+},
+{
+  "id": 918,
+  "title": "Parimala and Co",
+  "year": 2026,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "6.0",
+  "poster": "posters/Parimala and Co.jpg",
+  "genre": ["Comedy","Crime"]
 }
-
 
 ]
