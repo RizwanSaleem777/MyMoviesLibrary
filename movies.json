@@ -9186,6 +9186,16 @@
   "imdb": "6.0",
   "poster": "posters/Parimala and Co.jpg",
   "genre": ["Comedy","Crime"]
+},
+{
+  "id": 919,
+  "title": "Tumbbad",
+  "year": 2018,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "8.2",
+  "poster": "posters/Tumbbad.jpg",
+  "genre": ["Horror","Fantasy"]
 }
 
 ]
