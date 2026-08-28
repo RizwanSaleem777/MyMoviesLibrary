@@ -9209,12 +9209,23 @@
 },
 {
   "id": 921,
-  "title": "Balan:The Boy",
+  "title": "Balan The Boy",
   "year": 2026,
   "origin": "Bollywood",
   "type": "Movie",
   "imdb": "8.1",
   "poster": "posters/BalanThe Boy.jpg",
   "genre": ["Drama","Mystery"]
+},
+{
+  "id": 922,
+  "title": "Nail Polish",
+  "year": 2021,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "7.2",
+  "poster": "posters/Nail Polish.jpg",
+  "genre": ["Crime","Thriller"]
 }
+
 ]
