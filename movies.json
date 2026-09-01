@@ -9226,6 +9226,16 @@
   "imdb": "7.2",
   "poster": "posters/Nail Polish.jpg",
   "genre": ["Crime","Thriller"]
+},
+{
+  "id": 923,
+  "title": "Ugly",
+  "year": 2013,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "7.9",
+  "poster": "posters/Ugly.jpg",
+  "genre": ["Mystery","Thriller"]
 }
 
 ]
