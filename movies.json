@@ -9236,6 +9236,16 @@
   "imdb": "7.9",
   "poster": "posters/Ugly.jpg",
   "genre": ["Mystery","Thriller"]
+},
+{
+  "id": 924,
+  "title": "Psycho",
+  "year": 2020,
+  "origin": "Bollywood",
+  "type": "Movie",
+  "imdb": "6.1",
+  "poster": "posters/Psycho.jpg",
+  "genre": ["Thriller"]
 }
 
 ]
