@@ -9246,6 +9246,27 @@
   "imdb": "6.1",
   "poster": "posters/Psycho.jpg",
   "genre": ["Thriller"]
+},
+{
+  "id": 925,
+  "title": "Knock At The Cabin",
+  "year": 2023,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "6.1",
+  "poster": "posters/Knock at the cabin.jpg",
+  "genre": ["Horror","Mystery"]
+},
+{
+  "id": 926,
+  "title": "Locked",
+  "year": 2025,
+  "origin": "Hollywood",
+  "type": "Movie",
+  "imdb": "5.7",
+  "poster": "posters/Locked.jpg",
+  "genre": ["Thriller"]
 }
+
 
 ]
